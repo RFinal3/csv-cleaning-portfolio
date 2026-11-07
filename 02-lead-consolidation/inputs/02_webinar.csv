@@ -1,0 +1,26 @@
+first_name,last_name,email,phone_number,organisation,role,city,state,comments
+Nicole,Nelson,nicole.nelson@boomerangbooks.com.au.example,+61 473 588 513,Boomerang Books,Office Manager,Darwin,NT,Follow up in June
+Jack,Young,jack.young@tasmaniantimbertraders.com.au.example,+61 457 844 827,Tasmanian Timber Traders,Finance Manager,Darwin,NT,"Existing customer, new branch"
+Chloe,Wilson,chloe.wilson@eucalyptushealth.com.au.example,+61 478 961 462,Eucalyptus Health,Customer Service Lead,Darwin,NT,Spoke at conference
+Zoe,Lane,zoe.lane@coralcoast.com.au.example,041234567890,Coral Coast Realty,Sales Manager,Sydney,NSW,
+Michelle,King,michelle.king@eucalyptushealth.com.au.example,+61 467 673 952,N/A,Account Manager,Brisbane,QLD,Wants monthly deliveries
+William,Phillips,william.phillips@darlingharbourdental.com.au.example,+61 469 729 498,Darling Harbour Dental,Project Manager,Canberra,ACT,
+
+Priya,Nair,priya.nairwattleandco.com.au.example,+61 413 555 019,Wattle & Co,Owner,Melbourne,VIC,
+Mia,Patel,mia.patel@boomerangbooks.com.au.example,+61 449 512 789,Boomerang Books,Procurement Officer,Canberra,ACT,"Existing customer, new branch"
+Matthew,Nelson,matthew.nelson@wattleco.com.au.example,+61 424 570 151,Wattle & Co,Operations Lead,Darwin,NT,Follow up in June
+Andrew,Wilson,andrew.wilson@reeftourismco.com.au.example,+61 476 847 788,Reef Tourism Co,Customer Service Lead,Sydney,NSW,
+Lucas,Taylor,lucas.taylor@redcentreminingservices.com.au.example,+61 419 927 334,Red Centre Mining Services,Store Manager,Canberra,ACT,Met at trade show
+Luke,Hill,luke.hill@goldenwattlefinance.com.au.example,+61 426 922 957,Golden Wattle Finance,Customer Service Lead,Hobart,TAS,Needs delivery before Christmas
+Jessica,Nelson,jessica.nelson@goldenwattlefinance.com.au.example,+61 471 843 395,Golden Wattle Finance,Store Manager,Brisbane,QLD,
+James,Singh,james.singh@southerncrosssolar.com.au.example,+61 478 252 982,N/A,Finance Manager,Brisbane,QLD,Wants monthly deliveries
+Stephanie,Taylor,stephanie.taylor@coralcoastrealty.com.au.example,+61 465 356 843,Coral Coast Realty,Project Manager,Brisbane,QLD,Wants monthly deliveries
+Noah,Parker,noah.parker@snowyriveroutdoors.com.au.example,+61 491 170 725,N/A,Chief Executive,Brisbane,QLD,"Existing customer, new branch"
+Ruby,Brown,ruby.brown@banksiabrewing.com.au.example,+61 420 231 560,Banksia Brewing,Marketing Coordinator,Hobart,TAS,"Existing customer, new branch"
+Michael,Rodriguez,michael.rodriguez@malleefarms.com.au.example,+61 491 109 285,Mallee Farms,Owner,Darwin,NT,Met at trade show
+Jack,Robinson,jack.robinson@reeftourismco.com.au.example,+61 446 307 982,Reef Tourism Co,Finance Manager,Adelaide,SA,Met at trade show
+Jack,Singh,jack.singh@opalcoasthotels.com.au.example,+61 481 745 966,Opal Coast Hotels,Project Manager,Adelaide,SA,"Existing customer, new branch"
+Sarah,Baker,sarah.baker@opalcoasthotels.com.au.example,+61 473 425 771,Opal Coast Hotels,Project Manager,Canberra,ACT,Wants monthly deliveries
+Sarah,Chen,sarah.chen@wattleco.com.au.example,+61 486 191 981,Wattle & Co,Account Manager,Adelaide,SA,Needs delivery before Christmas
+Luke,Gonzalez,luke.gonzalez@opalcoasthotels.com.au.example,+61 452 375 546,Opal Coast Hotels,Marketing Coordinator,Brisbane,QLD,Prefers email contact
+Matthew,Kim,matthew.kim@jacarandajewellery.com.au.example,+61 451 746 501,Jacaranda Jewellery,Business Development Manager,Brisbane,QLD,Requested a quote

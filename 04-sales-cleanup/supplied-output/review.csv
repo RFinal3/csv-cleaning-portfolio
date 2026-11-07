@@ -1,0 +1,31 @@
+order_id,customer_first,customer_last,customer_email,customer_phone,sku,product,qty,unit_price,line_total,order_date,status,source,reason
+SH-9123,Tara,Vance,tara.vance@gmail.com.example,0412 345 678,HME-1099,Scented Candle,1,22.00,22.00,2026-05-10,completed,01_shopify_export.csv,product mismatch
+SH-9110,Jay,Cole,jay.cole@gmail.com.example,0412 345 678,,Wall Clock,1,39.99,39.99,2026-05-10,completed,01_shopify_export.csv,SKU missing
+SH-9104,Dan,Ives,dan.ives@gmail.com.example,0412 345 678,KTN-1001,Cotton Tea Towel Set,1,24.99,24.99,,completed,01_shopify_export.csv,date missing
+SH-9115,Ola,Peters,ola.peterscompany.com.example,0412 345 678,KTN-1015,Glass Storage Jars,1,28.50,28.50,2026-05-10,completed,01_shopify_export.csv,email invalid
+MAN-3025,Daniel,White,daniel.white@icloud.com.example,0451 809 232,HME-1019,Bookshelf,5,124.00,620.00,2026-04-25,completed,01_shopify_export.csv,order conflict
+MAN-3025,Daniel,White,daniel.white@icloud.com.example,0451 809 232,HME-1019,Bookshelf,5,119.00,595.00,2026-04-25,completed,03_manual_orders.csv,order conflict
+SH-9117,John,Smith,john.smith@gmail.com.example,0412 777 888,KTN-1002,Ceramic Mug,1,19.95,19.95,2026-05-10,completed,01_shopify_export.csv,possible duplicate customer
+SH-9101,Anna,Keane,anna.keane@gmail.com.example,0412 345 678,HME-1004,Scented Candle,2,22.00,44.00,30/02/2026,completed,01_shopify_export.csv,date invalid
+SH-9113,Mia,Grant,,0412 345 678,KTN-1012,Baking Tray Set,1,32.99,32.99,2026-05-10,completed,01_shopify_export.csv,email missing
+SH-1036,Lucas,Walker,lucas.walker@bigpond.com.example,0465 517 912,HME-1013,Throw Blanket,3,54.00,162.00,2026-08-12,pending,01_shopify_export.csv,order conflict
+SH-1036,Lucas,Walker,lucas.walker@bigpond.com.example,0465 517 912,HME-1013,Throw Blanket,3,59.00,177.00,2026-08-12,pending,02_pos_export.csv,order conflict
+SH-9107,Gina,Park,gina.park@gmail.com.example,0412 345 678,BTH-1017,Bath Mat,1,,,2026-05-10,completed,01_shopify_export.csv,price missing
+SH-9121,Tara,Vance,tara.vance@gmail.com.example,0412 345 678,KTN-1099,Ceramic Mug,1,19.95,19.95,2026-05-10,completed,01_shopify_export.csv,product mismatch
+POS-9122,Uma,Wells,uma.wells@gmail.com.example,0412 345 678,KTN-1099,Ceramic Mug Large,1,19.95,19.95,2026-05-10,completed,02_pos_export.csv,product mismatch
+MAN-9124,Uma,Wells,uma.wells@gmail.com.example,0412 345 678,HME-1099,Scented Candle Gift Set,1,22.00,22.00,2026-05-10,completed,02_pos_export.csv,product mismatch
+POS-9108,Hugo,Reed,hugo.reed@gmail.com.example,0412 345 678,KTN-1006,Cast Iron Skillet,2,59.00,118.00,2026-05-10,completed,02_pos_export.csv,total mismatch
+POS-9105,Ella,Frost,ella.frost@gmail.com.example,0412 345 678,HME-1013,Throw Blanket,1,,,2026-05-10,completed,02_pos_export.csv,price invalid
+POS-9102,Ben,Osei,ben.osei@outlook.com.example,0412 345 678,KTN-1009,Knife Set,1,89.00,89.00,32/01/2026,completed,02_pos_export.csv,date invalid
+SH-9119,Sara,Kim,sara.kim@gmail.com.example,0423 999 111,KTN-1002,Ceramic Mug,1,19.95,19.95,2026-05-10,completed,02_pos_export.csv,possible duplicate customer
+POS-9109,Ivy,Chen,ivy.chen@gmail.com.example,0412 345 678,HME-1011,Table Lamp,1,49.95,49.95,2026-05-10,completed,02_pos_export.csv,total mismatch
+POS-9116,Pete,Quinn,pete.quinn@,0412 345 678,HME-1019,Bookshelf,1,119.00,119.00,2026-05-10,completed,02_pos_export.csv,email invalid
+POS-2022,Stephanie,Smith,stephanie.smith@icloud.com.example,0434 637 407,KTN-1006,Cast Iron Skillet,2,59.00,118.00,2026-09-20,completed,02_pos_export.csv,order conflict
+POS-2022,Stephanie,Smith,stephanie.smith@icloud.com.example,0434 637 407,KTN-1006,Cast Iron Skillet,2,64.00,128.00,2026-09-20,completed,03_manual_orders.csv,order conflict
+POS-9112,Leo,Moss,leo.moss@gmail.com.example,0412 345 678,XYZ,Mystery Item,1,10.00,10.00,2026-05-10,completed,02_pos_export.csv,invalid SKU
+POS-9118,Jon,Smith,jon.smith@outlook.com.example,0412 777 888,HME-1005,Linen Cushion Cover,1,29.95,29.95,2026-05-10,completed,02_pos_export.csv,possible duplicate customer
+MAN-9111,Kim,Do,kim.do@gmail.com.example,0412 345 678,,Soap Dispenser Set,1,18.95,18.95,2026-05-10,completed,03_manual_orders.csv,SKU missing
+MAN-9103,Cara,Diaz,cara.diaz@yahoo.com.au.example,0412 345 678,BTH-1007,Bath Towel Set,1,44.95,44.95,2026-13-01,completed,03_manual_orders.csv,date invalid
+POS-9120,Sarah,Kim,sarah.kim@yahoo.com.au.example,0423 999 111,HME-1005,Linen Cushion Cover,1,29.95,29.95,2026-05-10,completed,03_manual_orders.csv,possible duplicate customer
+MAN-9114,Ned,Hughes,,0412 345 678,HME-1016,Picture Frame Set,1,21.99,21.99,2026-05-10,completed,03_manual_orders.csv,email missing
+MAN-9106,Finn,Omar,finn.omar@gmail.com.example,0412 345 678,KTN-1018,Coffee Grinder,1,,,2026-05-10,completed,03_manual_orders.csv,price invalid

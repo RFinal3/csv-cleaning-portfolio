@@ -1,0 +1,121 @@
+first_name,last_name,email,phone,company,role,city,state,notes,source
+Jack,Roberts,jack.roberts@tasmaniantimbertraders.com.au.example,0483 170 889,Tasmanian Timber Traders,Chief Executive,Perth,WA,Follow up in June,01_tradeshow.csv
+Nicole,Hill,nicole.hill@harbourviewlogistics.com.au.example,0474 135 631,Harbourview Logistics,Office Manager,Adelaide,SA,"Existing customer, new branch",01_tradeshow.csv | 04_old_spreadsheet.csv
+Mia,Allen,mia.allen@reeftourismco.com.au.example,0471 158 745,Reef Tourism Co,Sales Manager,Adelaide,SA,Interested in bulk pricing,01_tradeshow.csv
+Sam,King,sam.king@reeftourismco.com.au.example,0461 419 932,Reef Tourism Co,Procurement Officer,Canberra,ACT,Referred by a partner,01_tradeshow.csv
+Robert,Taylor,robert.taylor@darlingharbourdental.com.au.example,0433 201 748,Darling Harbour Dental,Office Manager,Sydney,NSW,Prefers email contact,01_tradeshow.csv
+Ben,Chen,ben.chen@darlingharbourdental.com.au.example,0479 214 864,Darling Harbour Dental,Procurement Officer,Melbourne,VIC,Prefers email contact,01_tradeshow.csv
+David,Robinson,david.robinson@kookaburrakitchens.com.au.example,0423 435 959,Kookaburra Kitchens,Sales Manager,Adelaide,SA,,01_tradeshow.csv
+Mary,Nguyen,mary.nguyen@snowyriveroutdoors.com.au.example,0468 130 782,Snowy River Outdoors,Owner,Melbourne,VIC,Follow up in June,01_tradeshow.csv | 07_event_list.csv
+Chloe,Mitchell,chloe.mitchell@reeftourismco.com.au.example,0497 508 152,Reef Tourism Co,General Manager,Sydney,NSW,"Existing customer, new branch",01_tradeshow.csv
+Kimberly,Singh,kimberly.singh@southerncrosssolar.com.au.example,0473 284 101,Southern Cross Solar,Project Manager,Adelaide,SA,Met at trade show,01_tradeshow.csv
+Emma,Nguyen,emma.nguyen@outbackofficesupplies.com.au.example,0490 804 383,Outback Office Supplies,Procurement Officer,Adelaide,SA,Referred by a partner,01_tradeshow.csv
+Charlotte,Perez,charlotte.perez@darlingharbourdental.com.au.example,0489 524 922,Darling Harbour Dental,Procurement Officer,Adelaide,SA,Needs delivery before Christmas,01_tradeshow.csv
+Ben,Flores,ben.flores@boomerangbooks.com.au.example,0455 826 388,Boomerang Books,Marketing Coordinator,Sydney,NSW,Follow up in June,01_tradeshow.csv | 04_old_spreadsheet.csv
+Luke,Brown,info@reeftourismco.com.au.example,0466 507 376,Reef Tourism Co,Sales Manager,Perth,WA,Wants monthly deliveries,01_tradeshow.csv
+Emma,Wilson,info@reeftourismco.com.au.example,0423 855 547,Reef Tourism Co,Account Manager,Brisbane,QLD,,07_event_list.csv
+Richard,Roberts,richard.roberts@waratahwebdesign.com.au.example,0434 501 905,Waratah Web Design,Sales Manager,Perth,WA,Requested a quote,01_tradeshow.csv
+Robert,Lewis,robert.lewis@coralcoastrealty.com.au.example,0494 951 433,Coral Coast Realty,Finance Manager,Adelaide,SA,Needs delivery before Christmas,01_tradeshow.csv
+Joshua,Robinson,joshua.robinson@tasmaniantimbertraders.com.au.example,0426 553 765,Tasmanian Timber Traders,Operations Lead,Hobart,TAS,,01_tradeshow.csv | 07_event_list.csv
+Karen,Patel,karen.patel@tasmaniantimbertraders.com.au.example,0472 699 751,Tasmanian Timber Traders,Project Manager,Darwin,NT,Needs delivery before Christmas,01_tradeshow.csv
+Sarah,King,sarah.king@malleefarms.com.au.example,0455 478 732,Mallee Farms,Marketing Coordinator,Hobart,TAS,Interested in bulk pricing,01_tradeshow.csv
+John,Turner,john.turner@redcentreminingservices.com.au.example,0490 303 775,Red Centre Mining Services,Owner,Canberra,ACT,"Existing customer, new branch",01_tradeshow.csv
+Olivia,Nelson,olivia.nelson@goldenwattlefinance.com.au.example,0430 635 934,Golden Wattle Finance,Customer Service Lead,Sydney,NSW,Interested in bulk pricing,01_tradeshow.csv
+Charlotte,White,charlotte.white@snowyriveroutdoors.com.au.example,0439 976 240,Snowy River Outdoors,Account Manager,Sydney,NSW,Met at trade show,01_tradeshow.csv | 04_old_spreadsheet.csv
+Emma,White,emma.white@outbackofficesupplies.com.au.example,0498 144 151,Outback Office Supplies,Customer Service Lead,Sydney,NSW,Prefers email contact,01_tradeshow.csv
+Nicole,Nelson,nicole.nelson@boomerangbooks.com.au.example,0473 588 513,Boomerang Books,Office Manager,Darwin,NT,Follow up in June,02_webinar.csv
+Jack,Young,jack.young@tasmaniantimbertraders.com.au.example,0457 844 827,Tasmanian Timber Traders,Finance Manager,Darwin,NT,"Existing customer, new branch",02_webinar.csv
+Chloe,Wilson,chloe.wilson@eucalyptushealth.com.au.example,0478 961 462,Eucalyptus Health,Customer Service Lead,Darwin,NT,Spoke at conference,02_webinar.csv | 07_event_list.csv
+Michelle,King,michelle.king@eucalyptushealth.com.au.example,0467 673 952,,Account Manager,Brisbane,QLD,Wants monthly deliveries,02_webinar.csv
+William,Phillips,william.phillips@darlingharbourdental.com.au.example,0469 729 498,Darling Harbour Dental,Project Manager,Canberra,ACT,,02_webinar.csv
+Mia,Patel,mia.patel@boomerangbooks.com.au.example,0449 512 789,Boomerang Books,Procurement Officer,Canberra,ACT,"Existing customer, new branch",02_webinar.csv | 04_old_spreadsheet.csv
+Matthew,Nelson,matthew.nelson@wattleco.com.au.example,0424 570 151,Wattle & Co,Operations Lead,Darwin,NT,Follow up in June,02_webinar.csv
+Andrew,Wilson,andrew.wilson@reeftourismco.com.au.example,0476 847 788,Reef Tourism Co,Customer Service Lead,Sydney,NSW,,02_webinar.csv | 04_old_spreadsheet.csv
+Lucas,Taylor,lucas.taylor@redcentreminingservices.com.au.example,0419 927 334,Red Centre Mining Services,Store Manager,Canberra,ACT,Met at trade show,02_webinar.csv | 07_event_list.csv
+Luke,Hill,luke.hill@goldenwattlefinance.com.au.example,0426 922 957,Golden Wattle Finance,Customer Service Lead,Hobart,TAS,Needs delivery before Christmas,02_webinar.csv
+Jessica,Nelson,jessica.nelson@goldenwattlefinance.com.au.example,0471 843 395,Golden Wattle Finance,Store Manager,Brisbane,QLD,,02_webinar.csv
+James,Singh,james.singh@southerncrosssolar.com.au.example,0478 252 982,,Finance Manager,Brisbane,QLD,Wants monthly deliveries,02_webinar.csv
+Stephanie,Taylor,stephanie.taylor@coralcoastrealty.com.au.example,0465 356 843,Coral Coast Realty,Project Manager,Brisbane,QLD,Wants monthly deliveries,02_webinar.csv
+Noah,Parker,noah.parker@snowyriveroutdoors.com.au.example,0491 170 725,,Chief Executive,Brisbane,QLD,"Existing customer, new branch",02_webinar.csv
+Ruby,Brown,ruby.brown@banksiabrewing.com.au.example,0420 231 560,Banksia Brewing,Marketing Coordinator,Hobart,TAS,"Existing customer, new branch",02_webinar.csv
+Michael,Rodriguez,michael.rodriguez@malleefarms.com.au.example,0491 109 285,Mallee Farms,Owner,Darwin,NT,Met at trade show,02_webinar.csv
+Jack,Robinson,jack.robinson@reeftourismco.com.au.example,0446 307 982,Reef Tourism Co,Finance Manager,Adelaide,SA,Met at trade show,02_webinar.csv
+Jack,Singh,jack.singh@opalcoasthotels.com.au.example,0481 745 966,Opal Coast Hotels,Project Manager,Adelaide,SA,"Existing customer, new branch",02_webinar.csv
+Sarah,Baker,sarah.baker@opalcoasthotels.com.au.example,0473 425 771,Opal Coast Hotels,Project Manager,Canberra,ACT,Wants monthly deliveries,02_webinar.csv
+Sarah,Chen,sarah.chen@wattleco.com.au.example,0486 191 981,Wattle & Co,Account Manager,Adelaide,SA,Needs delivery before Christmas,02_webinar.csv
+Luke,Gonzalez,luke.gonzalez@opalcoasthotels.com.au.example,0452 375 546,Opal Coast Hotels,Marketing Coordinator,Brisbane,QLD,Prefers email contact,02_webinar.csv | 04_old_spreadsheet.csv
+Matthew,Kim,matthew.kim@jacarandajewellery.com.au.example,0451 746 501,Jacaranda Jewellery,Business Development Manager,Brisbane,QLD,Requested a quote,02_webinar.csv
+Mary,Clark,mary.clark@coralcoastrealty.com.au.example,0473 814 516,Coral Coast Realty,Account Manager,Canberra,ACT,Requested a quote,03_crm_export.csv
+John,Hill,john.hill@malleefarms.com.au.example,0433 757 151,Mallee Farms,Owner,Canberra,ACT,Met at trade show,03_crm_export.csv | 04_old_spreadsheet.csv
+William,Perez,william.perez@eucalyptushealth.com.au.example,0422 217 231,Eucalyptus Health,Account Manager,Perth,WA,Needs delivery before Christmas,03_crm_export.csv
+Mia,Mitchell,mia.mitchell@banksiabrewing.com.au.example,0441 763 381,Banksia Brewing,General Manager,Darwin,NT,Requested a quote,03_crm_export.csv
+Emma,Perez,emma.perez@tasmaniantimbertraders.com.au.example,0461 932 371,Tasmanian Timber Traders,Marketing Coordinator,Brisbane,QLD,Spoke at conference,03_crm_export.csv
+Michelle,Brown,michelle.brown@jacarandajewellery.com.au.example,0480 699 533,Jacaranda Jewellery,Finance Manager,Adelaide,SA,Follow up in June,03_crm_export.csv
+James,Scott,james.scott@southerncrosssolar.com.au.example,0455 508 530,Southern Cross Solar,Project Manager,Canberra,ACT,"Existing customer, new branch",03_crm_export.csv
+Ashley,Baker,ashley.baker@waratahwebdesign.com.au.example,0437 902 639,Waratah Web Design,Sales Manager,Brisbane,QLD,,03_crm_export.csv
+Daniel,Hill,daniel.hill@jacarandajewellery.com.au.example,0410 574 326,Jacaranda Jewellery,Finance Manager,Perth,WA,,03_crm_export.csv
+Adam,Wilson,adam.wilson@malleefarms.com.au.example,0471 574 760,Mallee Farms,Business Development Manager,Brisbane,QLD,Referred by a partner,03_crm_export.csv | 07_event_list.csv
+Amanda,White,amanda.white@snowyriveroutdoors.com.au.example,0485 288 725,Snowy River Outdoors,Sales Manager,Brisbane,QLD,,03_crm_export.csv
+Kimberly,Chen,kimberly.chen@tasmaniantimbertraders.com.au.example,0468 266 697,Tasmanian Timber Traders,Office Manager,Melbourne,VIC,Follow up in June,03_crm_export.csv
+Karen,Brown,karen.brown@snowyriveroutdoors.com.au.example,0456 278 138,Snowy River Outdoors,Business Development Manager,Hobart,TAS,"Existing customer, new branch",03_crm_export.csv
+Emma,Martin,emma.martin@redcentreminingservices.com.au.example,0455 126 603,Red Centre Mining Services,Procurement Officer,Sydney,NSW,,03_crm_export.csv
+Michelle,Chen,michelle.chen@snowyriveroutdoors.com.au.example,0462 600 497,Snowy River Outdoors,Finance Manager,Hobart,TAS,Prefers email contact,03_crm_export.csv
+Joshua,Adams,joshua.adams@nullarborfreight.com.au.example,0429 649 850,Nullarbor Freight,Customer Service Lead,Darwin,NT,Needs delivery before Christmas,03_crm_export.csv
+Jessica,Lee,jessica.lee@goldenwattlefinance.com.au.example,0466 245 528,Golden Wattle Finance,Office Manager,Melbourne,VIC,Wants monthly deliveries,03_crm_export.csv | 07_event_list.csv
+Lauren,Singh,lauren.singh@snowyriveroutdoors.com.au.example,0446 985 329,Snowy River Outdoors,Owner,Sydney,NSW,Follow up in June,03_crm_export.csv
+Lisa,Perez,lisa.perez@harbourviewlogistics.com.au.example,0447 423 623,Harbourview Logistics,Sales Manager,Adelaide,SA,Interested in bulk pricing,03_crm_export.csv
+Karen,Perez,karen.perez@eucalyptushealth.com.au.example,0417 506 965,Eucalyptus Health,Sales Manager,Hobart,TAS,,03_crm_export.csv | 04_old_spreadsheet.csv
+Emma,Wilson,emma.wilson@malleefarms.com.au.example,0499 136 559,Mallee Farms,Store Manager,Hobart,TAS,Spoke at conference,03_crm_export.csv
+Mary,King,mary.king@waratahwebdesign.com.au.example,0432 244 540,Waratah Web Design,Project Manager,Darwin,NT,Wants monthly deliveries,04_old_spreadsheet.csv | 05_linkedin.csv
+Andrew,Garcia,andrew.garcia@wattleco.com.au.example,0487 598 815,Wattle & Co,Chief Executive,Darwin,NT,Referred by a partner,04_old_spreadsheet.csv | 07_event_list.csv
+Ryan,White,ryan.white@goldenwattlefinance.com.au.example,0436 316 437,Golden Wattle Finance,Finance Manager,Darwin,NT,,04_old_spreadsheet.csv | 06_referrals.csv
+Charlotte,Roberts,charlotte.roberts@opalcoasthotels.com.au.example,0436 896 135,Opal Coast Hotels,Store Manager,Adelaide,SA,Spoke at conference,04_old_spreadsheet.csv | 07_event_list.csv
+Sophie,Smith,sophie.smith@reeftourismco.com.au.example,0490 437 977,Reef Tourism Co,Owner,Melbourne,VIC,Follow up in June,04_old_spreadsheet.csv | 05_linkedin.csv
+Robert,Brown,robert.brown@banksiabrewing.com.au.example,0448 119 858,Banksia Brewing,Sales Manager,Brisbane,QLD,Met at trade show,04_old_spreadsheet.csv | 06_referrals.csv
+Kimberly,Torres,kimberly.torres@darlingharbourdental.com.au.example,0414 579 483,Darling Harbour Dental,Office Manager,Perth,WA,Spoke at conference,04_old_spreadsheet.csv | 07_event_list.csv
+Isabella,Hall,isabella.hall@outbackofficesupplies.com.au.example,0499 895 759,Outback Office Supplies,Office Manager,Hobart,TAS,Met at trade show,04_old_spreadsheet.csv | 06_referrals.csv
+Grace,Phillips,grace.phillips@banksiabrewing.com.au.example,0440 122 253,Banksia Brewing,Owner,Hobart,TAS,Prefers email contact,04_old_spreadsheet.csv | 05_linkedin.csv
+Emily,Wright,emily.wright@reeftourismco.com.au.example,0491 360 216,Reef Tourism Co,Store Manager,Hobart,TAS,Requested a quote,04_old_spreadsheet.csv | 07_event_list.csv
+Ryan,Johnson,ryan.johnson@goldenwattlefinance.com.au.example,0429 398 244,Golden Wattle Finance,Marketing Coordinator,Brisbane,QLD,,04_old_spreadsheet.csv | 07_event_list.csv
+Kimberly,Young,kimberly.young@harbourviewlogistics.com.au.example,0440 522 404,Harbourview Logistics,,Brisbane,QLD,Prefers email contact,05_linkedin.csv
+Noah,Williams,noah.williams@reeftourismco.com.au.example,0456 686 680,Reef Tourism Co,Customer Service Lead,Brisbane,QLD,,05_linkedin.csv
+Ben,Martin,ben.martin@redcentreminingservices.com.au.example,0416 604 483,Red Centre Mining Services,Sales Manager,Hobart,TAS,Prefers email contact,05_linkedin.csv | 07_event_list.csv
+Chloe,Adams,chloe.adams@snowyriveroutdoors.com.au.example,0428 169 762,Snowy River Outdoors,Sales Manager,Brisbane,QLD,Met at trade show,05_linkedin.csv
+Lauren,Jones,lauren.jones@boomerangbooks.com.au.example,0467 992 770,Boomerang Books,Customer Service Lead,Sydney,NSW,Interested in bulk pricing,05_linkedin.csv
+Sarah,Mitchell,sales@harbourviewlogistics.com.au.example,0459 412 343,Harbourview Logistics,Account Manager,Sydney,NSW,,05_linkedin.csv
+David,Chen,sales@harbourviewlogistics.com.au.example,0495 556 669,Harbourview Logistics,Office Manager,Melbourne,VIC,,06_referrals.csv
+Stephanie,Rodriguez,stephanie.rodriguez@goldenwattlefinance.com.au.example,0440 741 619,Golden Wattle Finance,Finance Manager,Sydney,NSW,Interested in bulk pricing,05_linkedin.csv
+Robert,King,robert.king@tasmaniantimbertraders.com.au.example,0425 361 833,Tasmanian Timber Traders,Procurement Officer,Canberra,ACT,Referred by a partner,05_linkedin.csv
+Liam,Williams,liam.williams@jacarandajewellery.com.au.example,0490 886 498,Jacaranda Jewellery,Business Development Manager,Perth,WA,Spoke at conference,05_linkedin.csv
+John,Parker,john.parker@reeftourismco.com.au.example,0431 157 501,Reef Tourism Co,Office Manager,Canberra,ACT,,05_linkedin.csv
+Kimberly,Thompson,kimberly.thompson@kookaburrakitchens.com.au.example,0498 128 671,Kookaburra Kitchens,Chief Executive,Perth,WA,Follow up in June,05_linkedin.csv
+Isabella,Adams,isabella.adams@darlingharbourdental.com.au.example,0417 312 755,Darling Harbour Dental,Customer Service Lead,Adelaide,SA,Wants monthly deliveries,05_linkedin.csv
+Ashley,Parker,ashley.parker@tasmaniantimbertraders.com.au.example,0481 500 702,Tasmanian Timber Traders,Customer Service Lead,Adelaide,SA,Needs delivery before Christmas,05_linkedin.csv
+Amelia,Turner,amelia.turner@eucalyptushealth.com.au.example,0418 691 313,Eucalyptus Health,Procurement Officer,Adelaide,SA,Spoke at conference,05_linkedin.csv
+John,Flores,john.flores@wattleco.com.au.example,0437 590 281,Wattle & Co,Account Manager,Sydney,NSW,Follow up in June,05_linkedin.csv
+Lisa,Martinez,lisa.martinez@darlingharbourdental.com.au.example,0499 431 114,Darling Harbour Dental,,Adelaide,SA,"Existing customer, new branch",05_linkedin.csv
+Emily,Robinson,emily.robinson@banksiabrewing.com.au.example,0430 893 602,Banksia Brewing,Business Development Manager,Adelaide,SA,Prefers email contact,05_linkedin.csv
+Lucas,Martin,lucas.martin@snowyriveroutdoors.com.au.example,0466 883 432,Snowy River Outdoors,Customer Service Lead,Perth,WA,Follow up in June,05_linkedin.csv
+Joshua,Wright,joshua.wright@snowyriveroutdoors.com.au.example,,Snowy River Outdoors,Procurement Officer,Hobart,TAS,,06_referrals.csv
+Emily,King,emily.king@tasmaniantimbertraders.com.au.example,0478 426 981,Tasmanian Timber Traders,Store Manager,Melbourne,VIC,,06_referrals.csv
+Thomas,Singh,thomas.singh@eucalyptushealth.com.au.example,0470 694 176,Eucalyptus Health,Finance Manager,Perth,WA,,06_referrals.csv
+Emma,Johnson,emma.johnson@boomerangbooks.com.au.example,0423 500 298,Boomerang Books,Chief Executive,Perth,WA,,06_referrals.csv
+Mia,Robinson,mia.robinson@goldenwattlefinance.com.au.example,0499 624 792,Golden Wattle Finance,General Manager,Perth,WA,,06_referrals.csv
+Nicole,Torres,nicole.torres@opalcoasthotels.com.au.example,0474 723 551,Opal Coast Hotels,Chief Executive,Hobart,TAS,,06_referrals.csv
+Liam,Johnson,liam.johnson@waratahwebdesign.com.au.example,0479 127 712,Waratah Web Design,Sales Manager,Darwin,NT,,06_referrals.csv
+Richard,Walker,richard.walker@kookaburrakitchens.com.au.example,0450 235 121,Kookaburra Kitchens,Sales Manager,Sydney,NSW,,06_referrals.csv
+Emily,Campbell,emily.campbell@eucalyptushealth.com.au.example,0429 204 911,Eucalyptus Health,Account Manager,Canberra,ACT,Interested in bulk pricing,06_referrals.csv | 07_event_list.csv
+Richard,Lee,richard.lee@reeftourismco.com.au.example,0423 852 722,Reef Tourism Co,Procurement Officer,Darwin,NT,,06_referrals.csv
+Robert,Singh,robert.singh@outbackofficesupplies.com.au.example,0444 638 509,Outback Office Supplies,Customer Service Lead,Brisbane,QLD,,06_referrals.csv
+William,Torres,william.torres@southerncrosssolar.com.au.example,0473 129 831,Southern Cross Solar,Chief Executive,Sydney,NSW,,06_referrals.csv
+Sarah,Walker,sarah.walker@waratahwebdesign.com.au.example,0425 484 889,Waratah Web Design,Office Manager,Adelaide,SA,,06_referrals.csv
+Amanda,Chen,amanda.chen@snowyriveroutdoors.com.au.example,0473 832 568,Snowy River Outdoors,Operations Lead,Brisbane,QLD,Referred by a partner,06_referrals.csv | 07_event_list.csv
+Chloe,Hill,chloe.hill@goldenwattlefinance.com.au.example,,Golden Wattle Finance,Business Development Manager,Sydney,NSW,,06_referrals.csv
+Joshua,Young,joshua.young@malleefarms.com.au.example,0485 451 138,Mallee Farms,Owner,Melbourne,VIC,,06_referrals.csv
+Liam,Rodriguez,liam.rodriguez@kookaburrakitchens.com.au.example,0447 375 535,Kookaburra Kitchens,Store Manager,Hobart,TAS,,06_referrals.csv
+Ryan,Robinson,ryan.robinson@wattleco.com.au.example,0414 105 639,Wattle & Co,Project Manager,Hobart,TAS,,06_referrals.csv
+Nicole,Phillips,nicole.phillips@nullarborfreight.com.au.example,0450 545 404,Nullarbor Freight,Office Manager,Adelaide,SA,Prefers email contact,07_event_list.csv
+Thomas,Johnson,thomas.johnson@goldenwattlefinance.com.au.example,0479 277 703,Golden Wattle Finance,Marketing Coordinator,Perth,WA,,07_event_list.csv
+Michael,Wright,michael.wright@nullarborfreight.com.au.example,0447 973 290,Nullarbor Freight,Chief Executive,Darwin,NT,Follow up in June,07_event_list.csv
+Matthew,Garcia,matthew.garcia@reeftourismco.com.au.example,0462 541 448,Reef Tourism Co,Customer Service Lead,Brisbane,QLD,Wants monthly deliveries,07_event_list.csv
+James,King,james.king@wattleco.com.au.example,0419 596 943,Wattle & Co,Marketing Coordinator,Perth,WA,Referred by a partner,07_event_list.csv

@@ -1,0 +1,118 @@
+customer_id,first_name,last_name,email,phone,city,state,zip,signup_date,total_spent
+1025,Anthony,Hill,ANTHONY.HILL@ICLOUD.COM.EXAMPLE,+1 303 804 5852,Boston,MA,02197,11/18/22,"$1,802.11"
+1068,Karen Lee,,karen.lee@outlook.com.example,305.370.7898,Miami,Florida,33153,16-Sep-2024,602.69
+1006,JENNIFER,JACKSON,jennifer.jackson@gmail.com.example,(206) 878-9994,Seattle,WA,98145,2022-03-23,"$1,014.27"
+1069,MARK,WRIGHT,mark.wright@hotmail.com.example,(404) 277-4255,Atlanta,GA,30316,2024-05-02,$8.51
+1080,Patricia,Scott,patricia.scott@icloud.com.example,+1 602 920 2402,Miami,FL,33114,4/7/24,1959.81
+9998,Test,Account,test@test.com,(000) 000-0000,Testville,TS,00000,01/01/2025,$0.00
+1036,Emily,Young,EMILY.YOUNG@GMAIL.COM.EXAMPLE,+1 206 534 6989,Newark,New Jersey,7149-4585,06/15/2025,1083.57
+1089,Thomas,Rodriguez,thomas.rodriguez@hotmail.com.example,404.365.2850,Denver,CO,80295,03-Jul-2024,2277.30
+1083,Anthony,Lewis,ANTHONY.LEWIS@OUTLOOK.COM.EXAMPLE,312-494-5627,Hartford,CT,06145-6198,07/22/2025,2354.76
+1063,Andrew,Williams,andrew.williams@outlook.com.example,+1 312 938 9224,Chicago,IL,60654,4/12/22,$683.97
+1004,Patricia Martinez,,patricia.martinez@hotmail.com.example,512.623.9227,Austin,Texas,78739,18-Jan-2025,477.21
+1100,Deborah,Martinez,deborah.martinez1100@examplemail.net.example,602-582-0307,Austin,Texas,78719-9976,11/19/2024,466.64
+1018,SARAH,ANDERSON,sarah.anderson@outlook.com.example,(305) 965-9940,Seattle,WA,98137,2025-12-11,$510.30
+1020,Karen,Lee,karen.lee@icloud.com.example,+1 602 652 1269,Miami,Florida,33181,12/19/24,1028.24
+1013,Richard,Hall,richard.hall@outlook.com.example,312.510.5303,Boston,MA,02130,22-Apr-2024,640.75
+1072,Sharon,Clark,SHARON.CLARK@YAHOO.COM.EXAMPLE,212.958.2702,Newark,NJ,07198,02-Sep-2023,"$2,003.03"
+1017,  Thomas,Rodriguez,thomas.rodriguez@yahoo.com.example,503.392.1394,Denver ,Colorado,80217,13-Jun-2022,642.58
+1075,  Charles,Moore,charles.moore@icloud.com.example,+1 303 286 2295,Chicago ,IL,60695,9/28/24,$975.31
+,,,,,,,,,
+1015,Joseph,Williams,joseph.williams@icloud.com.example,303-337-0719,Chicago,IL,60641-4997,07/09/2024,"$2,374.86"
+1031,STEVEN,WILSON,steven.wilson@gmail.com.example,(617) 937-1253,Portland,OR,97256,2024-04-02,$578.09
+1053,Joseph,Taylor,JOSEPH.TAYLOR@OUTLOOK.COM.EXAMPLE,312-685-8516,Denver,CO,80217-1822,06/15/2025,$752.65
+1026,Betty,Baker,betty.baker@gmail.com.example,206.485.3598,New York,NY,10092,14-May-2022,379.58
+1079,Timothy,Thompson,timothy.thompson@hotmail.com.example,404-423-8128,Portland,OR,97241-9702,12/04/2023,$918.10
+1059,Michael,Campbell,michael.campbell@hotmail.com.example,+1 404 371 3450,Hartford,Connecticut,06143,4/9/24,949.89
+1008,Linda,Clark,linda.clark@outlook.com.example,+1 305 501 1337,Miami,Florida,33122,10/9/24,1937.11
+1048,SHARON,CLARK,sharon.clark@outlook.com.example,(305) 901-3107,Newark,NJ,07179,2022-02-25,2036.87
+1014,SUSAN,MITCHELL,SUSAN.MITCHELL@HOTMAIL.COM.EXAMPLE,(512) 743-6114,New York,New York,10097,2022-10-21,410.73
+1035,ANDREW,LEWIS,ANDREW.LEWIS@ICLOUD.COM.EXAMPLE,(303) 979-2291,Hartford,CT,06137,2025-12-23,482.76
+1073,JOHN,HILL,john.hill1073@examplemail.net.example,(312) 663-4916,Boston,MA,02184,2023-07-05,100.39
+1097,  Matthew,Martin,matthew.martin@yahoo.com.example,+1 503 632 3924,Boston ,Massachusetts,02146,6/3/25,1964.22
+1050,Laura King,,laura.king@icloud.com.example,+1 602 338 1076,New York,NY,10017,1/13/24,$636.49
+1095,David Nelson,,DAVID.NELSON@ICLOUD.COM.EXAMPLE,303-708-9046,Hartford,CT,06184,06/15/2025,"$1,061.18"
+1085,Kenneth,Jones,kenneth.jones@icloud.com.example,303.232.0924,Boston,MA,02143,14-Oct-2022,$829.65
+1007,  Michael,Thompson,michael.thompson@yahoo.com.example,503-330-4256,Portland ,OR,97245-9099,06/04/2023,222.59
+1045,George,Taylor,george.taylor@icloud.com.example,303-408-5880,Atlanta,GA,30323-9486,04/18/2023,1076.67
+1005,John,Taylor,,(303) 788-3140,Denver,CO,80293,2025-07-08,1078.10
+1040,Dorothy,Rivera,DOROTHY.RIVERA@ICLOUD.COM.EXAMPLE,602-399-6527,Austin,TX,78775-3881,11/16/2024,$514.17
+1044,  DEBORAH,MARTINEZ,deborah.martinez@hotmail.com.example,(512) 764-8591,Miami ,FL,33116,2022-01-13,"$1,747.71"
+1054,  Nancy,Robinson,nancy.robinson@hotmail.com.example,+1 512 690 0436,Seattle ,WA,98116,9/28/24,1274.70
+1082,SARAH,ANDERSON,sarah.anderson1082@examplemail.net.example,(212) 534-2574,Phoenix,AZ,85034,2024-05-28,$166.61
+1043,Brian,Miller,brian.miller@outlook.com.example,312.497.2063,Portland,Oregon,97265,15-Jul-2024,2073.21
+1002,Mary,Brown,MARY.BROWN@YAHOO.COM.EXAMPLE,212-817-7968,New York,NY,10027-7291,06/15/2025,"$2,141.23"
+1091,  Steven,Torres,steven.torres1091@examplemail.net.example,617-625-4051,Portland ,OR,97248-9270,11/14/2024,$782.84
+1095,David Nelson,,david.nelson@icloud.com.example,(303) 708-9046,Hartford,CT,06184,2024-08-15,"$1,061.18"
+1028,  Margaret,Johnson,margaret.johnson1028@examplemail.net.example,305-930-2439,Austin ,TX,78723-2746,11/17/2024,"$1,461.53"
+1047,Timothy,Thompson,timothy.thompson@yahoo.com.example,503.571.7250,Hartford,CT,06119,02-Feb-2025,"$1,565.15"
+1084,Ashley,Adams,ashley.adams@hotmail.com.example,+1 512 477 7886,Newark,New Jersey,07178,2/9/22,428.56
+1024,Lisa,Scott,lisa.scott@hotmail.com.example,512-643-8532,Newark,New Jersey,7169-1090,09/28/2024,2261.83
+1027,MARK,CAMPBELL,mark.campbell@yahoo.com.example,(503) 805-7347,Chicago,Illinois,60610,2024-09-25,428.76
+1002,Mary,Brown,mary.brown@yahoo.com.example,212-817-7968,New York,NY,10027-7291,11/24/2022,"$2,141.23"
+1060,  Susan,Martinez,susan.martinez@icloud.com.example,602.741.4853,Newark ,NJ,07195,11-Aug-2024,"$2,229.64"
+1088,Elizabeth,Rivera,ELIZABETH.RIVERA@OUTLOOK.COM.EXAMPLE,+1 305 976 4287,Austin,TX,78776,11/24/25,"$2,256.63"
+1094,Mary,Robinson,MARY.ROBINSON@HOTMAIL.COM.EXAMPLE,512.899.3793,Phoenix,Arizona,85080,10-May-2022,504.44
+1058,Laura,King,laura.king@outlook.com.example,(305) 751-4445,Phoenix,AZ,85063,2024-02-30,759.29
+1019,Charles Moore,,CHARLES.MOORE1019@EXAMPLEMAIL.NET.EXAMPLE,404.531.8800,Portland,OR,97273-3417,06/15/2025,335.11
+1016,Jessica,Garcia,jessica.garcia@gmail.com.example,+1 206 777 2720,Austin,TX,78791,4/22/25,778.28
+1070,  Kimberly,Mitchell,kimberly.mitchell@icloud.com.example,602-734-4494,Phoenix ,AZ,85026-3184,03/24/2024,1060.41
+1055,Donald,Nelson,donald.nelson1055@examplemail.net.example,303.625.9974,Portland,Oregon,97217,03-Mar-2022,1428.08
+1027,MARK,CAMPBELL,mark.campbell@yahoo.com.example,(503) 805-7347,Chicago,Illinois,60610,2024-09-25,428.76
+1073,JOHN,HILL,john.hill1073@examplemail.net.example,(312) 663-4916,Boston,MA,02184,2023-07-05,100.39
+1051,James,Torres,JAMES.TORRES@GMAIL.COM.EXAMPLE,617.439.2843,Chicago,IL,60668,24-Dec-2024,2389.01
+1099,JOSHUA,CAMPBELL,JOSHUA.CAMPBELL@HOTMAIL.COM.EXAMPLE,(404) 238-7668,Chicago,IL,60613,2023-08-20,2039.37
+1078,DOROTHY,DAVIS,DOROTHY.DAVIS@OUTLOOK.COM.EXAMPLE,(305) 856-3133,Seattle,Washington,98152,2024-11-28,1764.14
+1076,Betty,Young,betty.young@gmail.com.example,206.828.7073,Austin,TX,78789,28-Apr-2023,390.00
+1042,Amanda,Brown,amanda.brown@yahoo.com.example,+1 212 877 3775,Seattle,WA,98170,4/4/24,232.63
+1049,  Ronald,Walker,ronald.walker@hotmail.com.example,404-540-9248,Boston ,Massachusetts,2131-8611,08/07/2024,2075.16
+1001,  JAMES,SMITH,james.smith1001@examplemail.net.example,(617) 293-3912,Boston ,Massachusetts,02191,2022-12-09,587.74
+1066,Jennifer,Baker,jennifer.baker@gmail.com.example,206-286-8946,Seattle,WA,98194-8478,05/04/2023,"$2,135.31"
+1052,LINDA,JOHNSON,linda.johnson@yahoo.com.example,(212) 755-2178,Austin,Texas,78781,2024-03-07,712.10
+1003,Robert,Miller,ROBERT.MILLER@OUTLOOK.COM.EXAMPLE,+1 312 695 3410,Chicago,IL,60621,1/1/24,224.87
+1090,LISA,WHITE,lisa.white@icloud.com.example,(602) 722-7406,Seattle,Washington,98152,2024-11-28,299.10
+1081,  William,Smith,william.smith@gmail.com.example,617.493.3147,Atlanta ,Georgia,30368,08-Apr-2024,56.79
+1029,Donald,Jones,donald.jones@hotmail.com.example,+1 404 513 6616,Denver,CO,80229,9/25/23,2213.84
+1009,David,Walker,DAVID.WALKER@HOTMAIL.COM.EXAMPLE,404.649.8207,Atlanta,GA,30368,03-Jul-2022,"$1,324.90"
+1010,ELIZABETH,KING,elizabeth.king1010@examplemail.net.example,(602) 718-8519,Phoenix,AZ,85090,2024-10-07,1690.97
+1064,Amanda,Thomas,amanda.thomas1064@examplemail.net.example,512.899.3959,Austin,TX,78766,10-Dec-2025,1468.03
+1096,Jessica,Garcia,jessica.garcia@gmail.com.example,206-628-8038,Newark,NJ,07137-7991,12/06/2024,1581.24
+9999,asdf,qwerty,asdf@asdf.com,123,asdf,AS,12345,99/99/9999,abc
+1056,EMILY,GARCIA,EMILY.GARCIA@GMAIL.COM.EXAMPLE,(206) 922-9463,Miami,FL,33196,2023-07-04,"$2,259.83"
+1057,Brian,Martin,brian.martin@yahoo.com.example,503-406-5404,Atlanta,GA,30382-5082,10/02/2025,1486.52
+1010,ELIZABETH,KING,elizabeth.king1010@examplemail.net.example,(602) 718-8519,Phoenix,AZ,85090,2024-10-07,1690.97
+1030,Sandra,Davis,SANDRA.DAVIS@ICLOUD.COM.EXAMPLE,602.702.4311,Seattle,Washington,98110,01-Aug-2024,268.48
+1093,George,Taylor,george.taylor@outlook.com.example,+1 312 768 1754,Atlanta,GA,30358,10/19/23,722.28
+1053,Joseph,Taylor,joseph.taylor@outlook.com.example,312-685-8516,Denver,CO,80217-1822,01/24/2025,$752.65
+1032,Ashley Thomas,,ashley.thomas@yahoo.com.example,212-994-3587,Miami,FL,33182-7965,02/24/2022,1166.38
+1021,Daniel,Harris,daniel.harris@gmail.com.example,617.535.0414,Atlanta,GA,30384,05-Apr-2024,"$1,222.86"
+1019,Charles Moore,,CHARLES.MOORE1019@EXAMPLEMAIL.NET.EXAMPLE,404-531-8800,Portland,OR,97273-3417,03/09/2024,335.11
+1012,  Barbara,Adams,barbara.adams@yahoo.com.example,+1 212 518 8729,Newark ,NJ,07122,8/21/24,"$2,001.87"
+1074,Barbara,Brown,barbara.brown@hotmail.com.example,512-954-1203,New York,New York,10056-8612,06/07/2022,1636.96
+1044,  DEBORAH,MARTINEZ,deborah.martinez@hotmail.com.example,(512) 764-8591,Miami ,FL,33116,2022-01-13,"$1,747.71"
+1046,Rebecca,Jackson,REBECCA.JACKSON1046@EXAMPLEMAIL.NET.EXAMPLE,+1 206 353 9209,Phoenix,Arizona,85064,8/8/24,2098.77
+1037,Joshua,Wright,joshua.wright1037@examplemail.net.example,+1 503 388 4897,Boston,MA,02141,6/1/22,"$1,411.94"
+1061,DANIEL,HARRIS,daniel.harris@gmail.com.example,(617) 207-8143,Boston,MA,02119,2024-10-19,2390.63
+1039,KENNETH,NELSON,kenneth.nelson@hotmail.com.example,(404) 392-0502,Chicago,Illinois,60617,2022-01-28,793.03
+1098,Sandra,King,sandra.king@outlook.com.example,305.764.3819,New York,NY,10040,26-Apr-2024,$477.91
+1011,William,Torres,william.torres@gmail.com.example,617-754-7078,Hartford,Connecticut,6115-7547,05/03/2023,2052.76
+1061,DANIEL,HARRIS,daniel.harris@gmail.com.example,(617) 207-8143,Boston,MA,02119,2024-10-19,2390.63
+1099,JOSHUA,CAMPBELL,JOSHUA.CAMPBELL@HOTMAIL.COM.EXAMPLE,(404) 238-7668,Chicago,IL,60613,2023-08-20,2039.37
+1033,  Paul,Martin,paul.martin@outlook.com.example,+1 312 838 0393,Atlanta ,Georgia,30318,3/5/25,1583.40
+1086,  REBECCA,JACKSON,rebecca.jackson@gmail.com.example,(206) 566-0737,New York ,NY,10050,2025-09-04,924.47
+1067,Richard,Miller,RICHARD.MILLER@YAHOO.COM.EXAMPLE,+1 503 330 3991,Portland,OR,97280,5/20/24,505.51
+1071,Kevin,Wilson,kevin.wilson@gmail.com.example,+1 617 670 5227,Hartford,Connecticut,06164,2/3/22,2268.12
+1092,Michelle,Johnson,michelle.johnson@yahoo.com.example,(212) 448-0135,Miami,XX,33199,2025-03-07,1009.07
+1077,Paul,Hall,paul.hall@,(503) 939-3855,Denver,CO,80232,2024-01-06,1767.75
+1038,  Michelle,Nguyen,michelle.nguyen@outlook.com.example,305.693.6193,New York ,NY,10039,03-Jan-2023,1698.82
+1087,Robert,Allen,robert.allen@yahoo.com.example,503-359-4496,Chicago,Illinois,60683-8251,01/23/2024,1046.54
+1034,Kimberly,White,kimberly.white@hotmail.com.example,512.338.5185,Phoenix,AZ,85080,28-Sep-2024,"$1,455.83"
+1041,Kevin,Smith,kevin.smith@gmail.com.example,12345,Denver,CO,80226,2025-10-16,583.19
+1036,Emily,Young,emily.young@gmail.com.example,206-534-6989,Newark,New Jersey,7149-4585,08/17/2024,1083.57
+,,,,,,,,,
+1065,  RONALD,WALKER,ronald.walker@icloud.com.example,(303) 643-7076,Denver ,Colorado,80293,2022-11-27,1331.05
+1080,Patricia,Scott,PATRICIA.SCOTT@ICLOUD.COM.EXAMPLE,602-920-2402,Miami,FL,33114,06/15/2025,1959.81
+1023,Matthew,Allen,matthew.allen#outlook.com.example,(312) 554-1334,Hartford,CT,06197,2025-02-13,915.89
+1022,  NANCY,ROBINSON,nancy.robinson@yahoo.com.example,(212) 833-9960,Phoenix ,AZ,85021,2022-02-05,1505.87
+,,,,,,,,,
+1062,Margaret,Nguyen,MARGARET.NGUYEN@YAHOO.COM.EXAMPLE,212-651-0004,New York,New York,10019-2988,09/09/2023,317.90

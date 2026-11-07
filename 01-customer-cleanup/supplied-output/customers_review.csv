@@ -1,0 +1,14 @@
+customer_id,first_name,last_name,email,phone,city,state,zip,signup_date,total_spent,review_reason
+9998,Test,Account,test@test.com,(000) 000-0000,Testville,TS,00000,01/01/2025,$0.00,looks like test data
+1036,Emily,Young,EMILY.YOUNG@GMAIL.COM.EXAMPLE,+1 206 534 6989,Newark,New Jersey,7149-4585,06/15/2025,1083.57,zip may be missing leading zero (likely 07149)
+1005,John,Taylor,,(303) 788-3140,Denver,CO,80293,2025-07-08,1078.10,missing email
+1024,Lisa,Scott,lisa.scott@hotmail.com.example,512-643-8532,Newark,New Jersey,7169-1090,09/28/2024,2261.83,zip may be missing leading zero (likely 07169)
+1058,Laura,King,laura.king@outlook.com.example,(305) 751-4445,Phoenix,AZ,85063,2024-02-30,759.29,invalid date
+1049,  Ronald,Walker,ronald.walker@hotmail.com.example,404-540-9248,Boston ,Massachusetts,2131-8611,08/07/2024,2075.16,zip may be missing leading zero (likely 02131)
+9999,asdf,qwerty,asdf@asdf.com,123,asdf,AS,12345,99/99/9999,abc,looks like test data
+1011,William,Torres,william.torres@gmail.com.example,617-754-7078,Hartford,Connecticut,6115-7547,05/03/2023,2052.76,zip may be missing leading zero (likely 06115)
+1092,Michelle,Johnson,michelle.johnson@yahoo.com.example,(212) 448-0135,Miami,XX,33199,2025-03-07,1009.07,invalid state
+1077,Paul,Hall,paul.hall@,(503) 939-3855,Denver,CO,80232,2024-01-06,1767.75,invalid email - missing dot in domain
+1041,Kevin,Smith,kevin.smith@gmail.com.example,12345,Denver,CO,80226,2025-10-16,583.19,wrong number of phone digits
+1036,Emily,Young,emily.young@gmail.com.example,206-534-6989,Newark,New Jersey,7149-4585,08/17/2024,1083.57,zip may be missing leading zero (likely 07149)
+1023,Matthew,Allen,matthew.allen#outlook.com.example,(312) 554-1334,Hartford,CT,06197,2025-02-13,915.89,invalid email - must contain exactly one @

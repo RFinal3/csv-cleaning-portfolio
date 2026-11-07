@@ -1,0 +1,10 @@
+first_name,last_name,email,phone,company,role,city,state,notes,source,reason
+Zoe,Lane,zoe.lane@coralcoast.com.au.example,041234567890,Coral Coast Realty,Sales Manager,Sydney,NSW,,02_webinar.csv,phone invalid
+Nina,Foster,nina.foster@banksia.com.au.example,12345,Banksia Brewing,Office Manager,Perth,WA,,04_old_spreadsheet.csv,phone invalid
+Omar,Farouk,omar.farouk@nullarborfreight.com.au.example,04AB 123 456,Nullarbor Freight,Procurement Officer,Adelaide,SA,,05_linkedin.csv,phone invalid
+,,someone@wattleandco.com.au.example,0412 888 999,Wattle & Co,Account Manager,Canberra,ACT,,06_referrals.csv,name missing
+Ben,Carter,ben.carter@company,0455 666 777,Opal Coast Hotels,General Manager,Darwin,NT,,01_tradeshow.csv,email invalid
+Tom,Harris,,0412 345 678,Wattle & Co,Sales Manager,Sydney,NSW,,01_tradeshow.csv,email missing
+Priya,Nair,priya.nairwattleandco.com.au.example,0413 555 019,Wattle & Co,Owner,Melbourne,VIC,,02_webinar.csv,email invalid
+Paul,Hall,paul.hall@,0422 777 123,Reef Tourism Co,Store Manager,Brisbane,QLD,,03_crm_export.csv,email invalid
+Kate,Moss,,0433 222 111,Jacaranda Jewellery,Owner,Hobart,TAS,,07_event_list.csv,email missing

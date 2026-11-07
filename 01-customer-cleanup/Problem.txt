@@ -1,0 +1,5 @@
+We exported our customer list (117 rows) while switching store systems and the new CRM keeps rejecting the import. We know there are duplicates in there — some people signed up twice — and the formatting is all over the place from years of manual entry. We need it cleaned for a CRM / mailing-list import.
+
+Rules: dedupe by email (same email = same customer; if duplicates disagree, keep the earliest signup). Dates as YYYY-MM-DD, phones as (xxx) xxx-xxxx, states as 2-letter codes, ZIPs as 5 digits, emails lowercase, names in Title Case, total_spent as a plain number. Don't invent data — anything you can't fix goes in a separate review file with the reason why.
+
+Deliverables: (1) the cleaned CSV, same columns, (2) the review CSV, (3) a short change summary — rows in, rows out, duplicates removed, what you fixed.

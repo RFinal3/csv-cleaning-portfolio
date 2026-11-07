@@ -1,0 +1,86 @@
+Order #,First Name,Last Name,Email,Phone,SKU,Item,Qty,Price,Total,Date,Status,Store
+POS-2012,Robert,Lewis,robert.lewis@yahoo.com.au.example,+61 497 364 962,KTN-1002,Ceramic Mug,4,19.95,79.80,30/04/2026,pending,Sydney Central
+POS-2023,Thomas,Kim,thomas.kim@icloud.com.example,+61 426 940 718,HME-1011,Table Lamp,4,49.95,199.80,23/01/2026,completed,Sydney Central
+POS-2022,Stephanie,Smith,stephanie.smith@icloud.com.example,+61 434 637 407,KTN-1009,Knife Set,5,89.00,445.00,20/09/2026,completed,Sydney Central
+POS-2013,Lisa,Nguyen,lisa.nguyen@gmail.com.example,+61 498 144 151,HME-1004,Scented Candle,1,$22.00,$22.00,02/06/2026,completed,Melbourne CBD
+POS-9122,Uma,Wells,uma.wells@gmail.com.example,+61 412 345 678,KTN-1099,Ceramic Mug Large,1,$19.95,$19.95,10/05/2026,completed,Melbourne CBD
+POS-2010,David,Torres,david.torres@outlook.com.example,+61 495 666 942,KTN-1012,Baking Tray Set,5,32.99,164.95,09/06/2026,completed,Brisbane City
+POS-9121,Lisa,Nguyen,lisa.nguyen@gmail.com.example,+61 498 144 151,KTN-1015,Glass Storage Jars,-5,28.50,-142.50,23/04/2026,completed,Sydney Central
+POS-2034,Emma,Roberts,emma.roberts@gmail.com.example,+61 467 992 770,KTN-1012,Baking Tray Set,5,32.99,164.95,18/07/2026,completed,Sydney Central
+MAN-9124,Uma,Wells,uma.wells@gmail.com.example,+61 412 345 678,HME-1099,Scented Candle Gift Set,1,$22.00,$22.00,10/05/2026,completed,Melbourne CBD
+POS-2019,William,King,william.king@outlook.com.example,+61 417 501 422,BTH-1014,Soap Dispenser Set,4,18.95,75.80,01/04/2026,completed,Sydney Central
+POS-2034,Emma,Roberts,emma.roberts@gmail.com.example,+61 467 992 770,HME-1005,Linen Cushion Cover,1,29.95,29.95,18/07/2026,completed,Sydney Central
+POS-2008,Nathan,Flores,nathan.flores@outlook.com.example,+61 414 494 797,KTN-1001,Cotton Tea Towel Set,2,$24.99,$49.98,14/02/2026,completed,Melbourne CBD
+POS-9108,Hugo,Reed,hugo.reed@gmail.com.example,+61 412 345 678,KTN-1006,Cast Iron Skillet,2,$59.00,100.00,10/05/2026,completed,Melbourne CBD
+POS-9999,asdf,asdf,asdf@asdf.com,+61 412 345 678,KTN-1002,Ceramic Mug,1,19.95,19.95,10/05/2026,completed,Brisbane City
+POS-2003,Amanda,White,amanda.white@bigpond.com.example,+61 482 831 285,KTN-1006,Cast Iron Skillet,1,59.00,59.00,29/10/2026,completed,Brisbane City
+POS-9404,David,Parker,david.parker@yahoo.com.au.example,+61 441 287 414,HME-1008,Wall Clock,-4,39.99,-159.96,16/06/2026,completed,Brisbane City
+POS-9105,Ella,Frost,ella.frost@gmail.com.example,+61 412 345 678,HME-1013,Throw Blanket,1,abc,$19.95,10/05/2026,completed,Melbourne CBD
+MAN-3012,Daniel,White,daniel.white@icloud.com.example,+61 451 809 232,HME-1005,Linen Cushion Cover,3,29.95,89.85,03/09/2026,completed,Sydney Central
+POS-2015,Ethan,Young,ethan.young@outlook.com.example,+61 423 911 966,HME-1016,Picture Frame Set,4,21.99,87.96,30/08/2026,completed,Sydney Central
+POS-9102,Ben,Osei,ben.osei@outlook.com.example,+61 412 345 678,KTN-1009,Knife Set,1,$89.00,$89.00,32/01/2026,completed,Melbourne CBD
+SH-9119,Sara,Kim,sara.kim@gmail.com.example,+61 423 999 111,KTN-1002,Ceramic Mug,1,$19.95,$19.95,10/05/2026,completed,Melbourne CBD
+POS-2031,Lucas,Lee,lucas.lee@bigpond.com.example,+61 469 571 601,HME-1005,Linen Cushion Cover,5,29.95,149.75,01/04/2026,completed,Sydney Central
+POS-2015,Ethan,Young,ethan.young@outlook.com.example,+61 423 911 966,HME-1019,Bookshelf,4,119.00,476.00,30/08/2026,completed,Sydney Central
+POS-2003,Amanda,White,amanda.white@bigpond.com.example,+61 482 831 285,HME-1019,Bookshelf,5,119.00,595.00,29/10/2026,completed,Brisbane City
+POS-2026,Michelle,Brown,michelle.brown@bigpond.com.example,+61 477 416 665,HME-1005,Linen Cushion Cover,5,29.95,149.75,07/07/2026,completed,Brisbane City
+POS-9109,Ivy,Chen,ivy.chen@gmail.com.example,+61 412 345 678,HME-1011,Table Lamp,1,$49.95,39.95,10/05/2026,completed,Melbourne CBD
+POS-2033,Nathan,Robinson,nathan.robinson@bigpond.com.example,+61 492 386 304,KTN-1002,Ceramic Mug,5,19.95,99.75,21/09/2026,completed,Sydney Central
+POS-2018,Mary,White,mary.white@gmail.com.example,+61 497 267 452,BTH-1010,Shower Curtain,4,27.50,110.00,19/05/2026,completed,Sydney Central
+POS-2002,Nathan,Flores,nathan.flores@outlook.com.example,+61 414 494 797,HME-1004,Scented Candle,5,22.00,110.00,03/07/2026,completed,Sydney Central
+POS-2003,Amanda,White,amanda.white@bigpond.com.example,+61 482 831 285,HME-1013,Throw Blanket,3,54.00,162.00,29/10/2026,completed,Brisbane City
+POS-2001,David,Parker,david.parker@yahoo.com.au.example,+61 441 287 414,KTN-1006,Cast Iron Skillet,3,$59.00,$177.00,29/07/2026,completed,Melbourne CBD
+POS-2014,Amelia,Parker,amelia.parker@icloud.com.example,+61 447 905 309,KTN-1009,Knife Set,2,89.00,178.00,17/02/2026,completed,Brisbane City
+POS-2007,Isabella,King,isabella.king@gmail.com.example,+61 425 287 358,KTN-1012,Baking Tray Set,2,32.99,65.98,29/06/2026,completed,Brisbane City
+MAN-3013,Kimberly,Thompson,kimberly.thompson@outlook.com.example,+61 434 895 811,KTN-1009,Knife Set,2,89.00,178.00,15/01/2026,completed,Brisbane City
+POS-2032,Robert,Smith,robert.smith@gmail.com.example,+61 451 595 265,HME-1005,Linen Cushion Cover,4,29.95,119.80,16/10/2026,completed,Brisbane City
+POS-2036,Jack,Allen,jack.allen@gmail.com.example,+61 440 468 390,HME-1011,Table Lamp,2,$49.95,$99.90,31/05/2026,cancelled,Melbourne CBD
+MAN-3030,Robert,Roberts,robert.roberts@gmail.com.example,+61 489 888 318,HME-1016,Picture Frame Set,4,21.99,87.96,11/02/2026,completed,Brisbane City
+POS-2026,Michelle,Brown,michelle.brown@bigpond.com.example,+61 477 416 665,KTN-1002,Ceramic Mug,4,19.95,79.80,07/07/2026,completed,Brisbane City
+POS-9449,Lisa,Nguyen,lisa.nguyen@gmail.com.example,+61 498 144 151,KTN-1003,Bamboo Cutting Board,5,34.50,172.50,04/09/2026,completed,Sydney Central
+POS-2006,Lucas,Walker,lucas.walker@bigpond.com.example,+61 465 517 912,KTN-1012,Baking Tray Set,5,32.99,164.95,16/06/2026,completed,Brisbane City
+POS-2018,Mary,White,mary.white@gmail.com.example,+61 497 267 452,HME-1005,Linen Cushion Cover,4,29.95,119.80,19/05/2026,completed,Sydney Central
+POS-2026,Michelle,Brown,michelle.brown@bigpond.com.example,+61 477 416 665,KTN-1015,Glass Storage Jars,1,28.50,28.50,07/07/2026,completed,Brisbane City
+POS-2029,Lucas,Lee,lucas.lee@bigpond.com.example,+61 469 571 601,HME-1008,Wall Clock,3,39.99,119.97,15/08/2026,completed,Brisbane City
+SH-1040,Amelia,Parker,amelia.parker@icloud.com.example,+61 447 905 309,HME-1019,Bookshelf,3,$119.00,$357.00,01/05/2026,completed,Melbourne CBD
+POS-2037,Lisa,Scott,lisa.scott@outlook.com.example,+61 432 344 565,KTN-1015,Glass Storage Jars,1,28.50,28.50,19/07/2026,cancelled,Sydney Central
+POS-9116,Pete,Quinn,pete.quinn@,+61 412 345 678,HME-1019,Bookshelf,1,$119.00,$119.00,10/05/2026,completed,Melbourne CBD
+SH-1010,William,King,william.king@outlook.com.example,+61 417 501 422,HME-1019,Bookshelf,3,119.00,357.00,18/10/2026,completed,Brisbane City
+POS-2001,David,Parker,david.parker@yahoo.com.au.example,+61 441 287 414,HME-1016,Picture Frame Set,2,$21.99,$43.98,29/07/2026,completed,Melbourne CBD
+POS-2022,Stephanie,Smith,stephanie.smith@icloud.com.example,+61 434 637 407,KTN-1015,Glass Storage Jars,4,28.50,114.00,20/09/2026,completed,Sydney Central
+POS-2024,Lucas,Walker,lucas.walker@bigpond.com.example,+61 465 517 912,KTN-1018,Coffee Grinder,5,$64.95,$324.75,18/01/2026,completed,Melbourne CBD
+POS-9886,Lisa,Nguyen,lisa.nguyen@gmail.com.example,+61 498 144 151,BTH-1010,Shower Curtain,-4,27.50,-110.00,21/04/2026,completed,Brisbane City
+POS-2015,Ethan,Young,ethan.young@outlook.com.example,+61 423 911 966,KTN-1006,Cast Iron Skillet,2,59.00,118.00,30/08/2026,completed,Sydney Central
+POS-2016,Robert,Roberts,robert.roberts@gmail.com.example,+61 489 888 318,BTH-1010,Shower Curtain,5,27.50,137.50,26/01/2026,completed,Sydney Central
+POS-2020,Mary,King,mary.king@bigpond.com.example,+61 469 276 244,HME-1004,Scented Candle,2,$22.00,$44.00,29/06/2026,completed,Melbourne CBD
+POS-2021,Isabella,King,isabella.king@gmail.com.example,+61 425 287 358,HME-1016,Picture Frame Set,2,21.99,43.98,24/08/2026,completed,Brisbane City
+POS-2005,Kimberly,Phillips,kimberly.phillips@bigpond.com.example,+61 491 109 285,KTN-1018,Coffee Grinder,2,$64.95,$129.90,13/06/2026,completed,Melbourne CBD
+POS-2008,Nathan,Flores,nathan.flores@outlook.com.example,+61 414 494 797,HME-1008,Wall Clock,5,$39.99,$199.95,14/02/2026,completed,Melbourne CBD
+POS-2022,Stephanie,Smith,stephanie.smith@icloud.com.example,+61 434 637 407,KTN-1006,Cast Iron Skillet,2,59.00,118.00,20/09/2026,completed,Sydney Central
+POS-2011,Amanda,White,amanda.white@bigpond.com.example,+61 482 831 285,KTN-1015,Glass Storage Jars,4,28.50,114.00,30/07/2026,completed,Sydney Central
+POS-2004,Lucas,Lee,lucas.lee@bigpond.com.example,+61 469 571 601,BTH-1017,Bath Mat,4,23.00,92.00,17/07/2026,completed,Brisbane City
+POS-2030,Joshua,Roberts,joshua.roberts@icloud.com.example,+61 494 135 455,KTN-1018,Coffee Grinder,2,$64.95,$129.90,07/08/2026,completed,Melbourne CBD
+POS-2017,Michelle,Taylor,michelle.taylor@gmail.com.example,+61 470 252 932,KTN-1015,Glass Storage Jars,5,$28.50,$142.50,06/01/2026,completed,Melbourne CBD
+POS-2027,Robert,Roberts,robert.roberts@gmail.com.example,+61 489 888 318,BTH-1010,Shower Curtain,1,$27.50,$27.50,24/02/2026,completed,Melbourne CBD
+POS-2027,Robert,Roberts,robert.roberts@gmail.com.example,+61 489 888 318,KTN-1015,Glass Storage Jars,4,$28.50,$114.00,24/02/2026,completed,Melbourne CBD
+POS-2031,Lucas,Lee,lucas.lee@bigpond.com.example,+61 469 571 601,HME-1019,Bookshelf,2,119.00,238.00,01/04/2026,completed,Sydney Central
+POS-2007,Isabella,King,isabella.king@gmail.com.example,+61 425 287 358,KTN-1009,Knife Set,2,89.00,178.00,29/06/2026,completed,Brisbane City
+POS-2039,Andrew,Roberts,andrew.roberts@yahoo.com.au.example,+61 415 902 696,HME-1019,Bookshelf,2,119.00,238.00,06/03/2026,refunded,Sydney Central
+
+POS-9112,Leo,Moss,leo.moss@gmail.com.example,+61 412 345 678,XYZ,Mystery Item,1,$10.00,$10.00,10/05/2026,completed,Melbourne CBD
+POS-2002,Nathan,Flores,nathan.flores@outlook.com.example,+61 414 494 797,HME-1005,Linen Cushion Cover,4,29.95,119.80,03/07/2026,completed,Sydney Central
+POS-2016,Robert,Roberts,robert.roberts@gmail.com.example,+61 489 888 318,KTN-1012,Baking Tray Set,2,32.99,65.98,26/01/2026,completed,Sydney Central
+POS-2032,Robert,Smith,robert.smith@gmail.com.example,+61 451 595 265,BTH-1010,Shower Curtain,1,27.50,27.50,16/10/2026,completed,Brisbane City
+SH-1036,Lucas,Walker,lucas.walker@bigpond.com.example,+61 465 517 912,HME-1013,Throw Blanket,3,$59.00,$177.00,12/08/2026,pending,Melbourne CBD
+POS-2009,Daniel,White,daniel.white@icloud.com.example,+61 451 809 232,BTH-1010,Shower Curtain,3,$27.50,$82.50,19/06/2026,completed,Melbourne CBD
+POS-9118,Jon,Smith,jon.smith@outlook.com.example,+61 412 777 888,HME-1005,Linen Cushion Cover,1,$29.95,$29.95,10/05/2026,completed,Melbourne CBD
+MAN-3026,Kimberly,Thompson,kimberly.thompson@outlook.com.example,+61 434 895 811,HME-1013,Throw Blanket,1,54.00,54.00,14/08/2026,completed,Sydney Central
+POS-2028,Ashley,Lee,ashley.lee@yahoo.com.au.example,+61 472 286 179,HME-1016,Picture Frame Set,1,21.99,21.99,07/04/2026,completed,Brisbane City
+POS-2008,Nathan,Flores,nathan.flores@outlook.com.example,+61 414 494 797,KTN-1003,Bamboo Cutting Board,3,$34.50,$103.50,14/02/2026,completed,Melbourne CBD
+POS-2023,Thomas,Kim,thomas.kim@icloud.com.example,+61 426 940 718,HME-1019,Bookshelf,1,119.00,119.00,23/01/2026,completed,Sydney Central
+POS-2035,Sarah,Thompson,sarah.thompson@outlook.com.example,+61 457 297 313,HME-1016,Picture Frame Set,2,$21.99,$43.98,23/03/2026,completed,Melbourne CBD
+POS-2025,Amanda,White,amanda.white@bigpond.com.example,+61 482 831 285,KTN-1015,Glass Storage Jars,3,28.50,85.50,25/06/2026,completed,Sydney Central
+POS-2038,Sophie,Brown,sophie.brown@gmail.com.example,+61 496 539 950,BTH-1017,Bath Mat,3,$23.00,$69.00,07/01/2026,cancelled,Melbourne CBD
+POS-2009,Daniel,White,daniel.white@icloud.com.example,+61 451 809 232,BTH-1007,Bath Towel Set,2,$44.95,$89.90,19/06/2026,completed,Melbourne CBD
+POS-2010,David,Torres,david.torres@outlook.com.example,+61 495 666 942,KTN-1015,Glass Storage Jars,5,28.50,142.50,09/06/2026,completed,Brisbane City
+POS-2010,David,Torres,david.torres@outlook.com.example,+61 495 666 942,KTN-1018,Coffee Grinder,5,64.95,324.75,09/06/2026,completed,Brisbane City

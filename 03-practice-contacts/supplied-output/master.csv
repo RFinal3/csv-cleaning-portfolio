@@ -1,0 +1,121 @@
+company,address,first_name,last_name,cell_phone,office_phone,email,source
+Summit Dental Care,"2234 Grove Street, Denver, CO 80202",Emma,Smith,(303) 803-4732,(303) 844-7381,emma.smith@summitdentalcare.com.example,01_referral_list.csv | 04_conference.csv
+Pine Street Orthodontics,"6875 Hill Boulevard, Phoenix, AZ 85001",Olivia,Singh,(602) 825-6419,(602) 840-4258 x86,olivia.singh@pinestreetorthodontics.com.example,01_referral_list.csv
+Fairview Dental Studio,"8034 Cherry Avenue, Phoenix, AZ 85001",Lucas,Lee,(480) 239-1478,(480) 587-4291 x92,lucas.lee@fairviewdentalstudio.com.example,01_referral_list.csv | 03_insurance_dir.csv
+Hillcrest Orthodontics,"1193 River Boulevard, Seattle, WA 98101",Noah,Nguyen,(206) 659-9499,(206) 869-6966,noah.nguyen@hillcrestorthodontics.com.example,01_referral_list.csv
+Harborview Dental Studio,"1035 Oak Road, Denver, CO 80202",Joshua,Parker,(303) 203-4963,(303) 841-9316 x96,joshua.parker@harborviewdentalstudio.com.example,01_referral_list.csv | 02_state_board.csv
+Bright Smile Dental,"5140 Walnut Boulevard, Miami, FL 33101",Jack,Martin,(786) 520-2053,(786) 369-1961,jack.martin@brightsmiledental.com.example,01_referral_list.csv | 03_insurance_dir.csv
+Harborview Dental Studio,"5262 Walnut Avenue, Dallas, TX 75201",Ethan,Scott,(214) 776-8588,(214) 356-9612,ethan.scott@harborviewdentalstudio.com.example,01_referral_list.csv
+Pine Street Orthodontics,"4900 Church Road, Boston, MA 02108",Mia,Lewis,(617) 438-1516,(617) 679-7138,mia.lewis@pinestreetorthodontics.com.example,01_referral_list.csv | 05_old_crm.csv
+Westside Dental Group,"2160 Park Drive, Newark, NJ 07102",Ethan,Thompson,(862) 349-2435,(862) 837-6710,ethan.thompson@westsidedentalgroup.com.example,01_referral_list.csv
+Riverbend Family Dentistry,"9517 Elm Avenue, Chicago, IL 60601",Emma,Allen,(312) 392-4687,(312) 981-5474,emma.allen@riverbendfamilydentistry.com.example,01_referral_list.csv
+Riverbend Family Dentistry,"8544 Elm Avenue, Atlanta, GA 30301",Olivia,Allen,(678) 929-8615,(678) 914-8887,olivia.allen@riverbendfamilydentistry.com.example,01_referral_list.csv
+Maple Grove Dentistry,"9703 School Boulevard, Newark, NJ 07102",Matthew,Hall,(862) 573-4534,(862) 558-7881,matthew.hall@maplegrovedentistry.com.example,01_referral_list.csv | 05_old_crm.csv
+Lakeside Dentistry,"6701 High Street, Denver, CO 80202",William,King,(720) 580-7371,(720) 285-3108,william.king@lakesidedentistry.com.example,01_referral_list.csv | 05_old_crm.csv
+Willow Creek Dentistry,"824 Cherry Road, Boston, MA 02108",Adam,Martin,(617) 864-5741,(617) 781-6763,adam.martin@willowcreekdentistry.com.example,01_referral_list.csv
+Stonebridge Dental Care,"945 Elm Drive, Dallas, TX 75201",Chloe,Gonzalez,(972) 858-5729,(972) 352-8924,chloe.gonzalez@stonebridgedentalcare.com.example,01_referral_list.csv
+Willow Creek Dentistry,"9614 Pearl Avenue, Miami, FL 33101",Sam,Taylor,(305) 303-8249,(305) 849-4067 x43,sam.taylor@willowcreekdentistry.com.example,01_referral_list.csv
+Lakeside Dentistry,"723 Oak Avenue, Dallas, TX 75201",Emma,White,(972) 345-8314,(972) 773-9004 x26,emma.white@lakesidedentistry.com.example,01_referral_list.csv
+Bright Smile Dental,"8387 Pine Boulevard, Atlanta, GA 30301",David,Young,(678) 688-7612,(678) 527-3150,david.young@brightsmiledental.com.example,01_referral_list.csv | 04_conference.csv
+Riverside Family Dentistry,"281 Washington Boulevard, Chicago, IL 60601",Stephanie,Kim,(312) 372-7181,(312) 315-1037 x26,stephanie.kim@riversidefamilydentistry.com.example,01_referral_list.csv
+Willow Creek Dentistry,"2541 Mill Boulevard, Denver, CO 80202",Thomas,Nguyen,(303) 355-2475,(303) 783-7431 x55,thomas.nguyen@willowcreekdentistry.com.example,01_referral_list.csv
+Maple Grove Dentistry,"7995 Elm Boulevard, Newark, NJ 07102",Isabella,Baker,(862) 864-1853,(862) 442-8639,isabella.baker@maplegrovedentistry.com.example,01_referral_list.csv | 02_state_board.csv
+Riverside Family Dentistry,"8534 Cherry Street, Chicago, IL 60601",Sophie,Turner,(312) 683-1155,(312) 681-7393,sophie.turner@riversidefamilydentistry.com.example,01_referral_list.csv
+Brookfield Family Dental,"1526 River Boulevard, Portland, OR 97201",Nicole,Taylor,(503) 577-5529,(503) 630-7749,nicole.taylor@brookfieldfamilydental.com.example,01_referral_list.csv
+Riverbend Family Dentistry,"4743 Church Drive, Dallas, TX 75201",Jessica,Clark,(214) 913-6570,(214) 260-3004,jessica.clark@riverbendfamilydentistry.com.example,01_referral_list.csv
+Brookfield Family Dental,"7132 Park Boulevard, Atlanta, GA 30301",Stephanie,Taylor,(404) 979-7861,(404) 623-9001 x71,stephanie.taylor@brookfieldfamilydental.com.example,01_referral_list.csv
+Stonebridge Dental Care,"5758 Washington Drive, Portland, OR 97201",Michelle,Flores,(503) 497-4043,(503) 499-3249,michelle.flores@stonebridgedentalcare.com.example,01_referral_list.csv
+Westside Dental Group,"2031 Cherry Boulevard, Newark, NJ 07102",Jessica,Nguyen,(862) 787-4012,(862) 634-1293 x52,jessica.nguyen@westsidedentalgroup.com.example,01_referral_list.csv
+Brookfield Family Dental,"5680 High Drive, Seattle, WA 98101",Sophie,Lewis,(425) 555-7993,(425) 860-5706,sophie.lewis@brookfieldfamilydental.com.example,02_state_board.csv | 05_old_crm.csv
+Stonebridge Dental Care,"1420 Park Street, Dallas, TX 75201",Michael,Rodriguez,(214) 559-4420,(214) 378-9411 x91,michael.rodriguez@stonebridgedentalcare.com.example,02_state_board.csv
+Cedar Creek Dental,"7580 Cedar Drive, Boston, MA 02108",Stephanie,Garcia,(617) 860-1345,(617) 497-9639 x68,stephanie.garcia@cedarcreekdental.com.example,02_state_board.csv
+Riverside Family Dentistry,"3286 Cherry Drive, Phoenix, AZ 85001",Emma,Roberts,(602) 944-9386,(602) 892-1363,emma.roberts@riversidefamilydentistry.com.example,02_state_board.csv | 03_insurance_dir.csv
+Summit Dental Care,"4177 Maple Drive, Newark, NJ 07102",Michelle,Lewis,(862) 690-4081,(862) 654-6315 x26,michelle.lewis@summitdentalcare.com.example,02_state_board.csv | 05_old_crm.csv
+Meadowbrook Dental,"3559 Oak Avenue, Portland, OR 97201",Ryan,Roberts,(503) 607-3295,(503) 838-2132,ryan.roberts@meadowbrookdental.com.example,02_state_board.csv | 04_conference.csv
+Hillcrest Orthodontics,"6441 Oak Road, Miami, FL 33101",Richard,Roberts,(305) 794-7126,(305) 705-6206 x71,richard.roberts@hillcrestorthodontics.com.example,02_state_board.csv | 04_conference.csv
+Hillcrest Orthodontics,"9470 Park Drive, Chicago, IL 60601",Chloe,Chen,(773) 594-8254,,chloe.chen@hillcrestorthodontics.com.example,02_state_board.csv
+Riverside Family Dentistry,"5945 Elm Street, Phoenix, AZ 85001",John,Thompson,(480) 602-7695,(480) 223-5600,john.thompson@riversidefamilydentistry.com.example,02_state_board.csv | 04_conference.csv
+Elm Street Dental,"3426 High Boulevard, Seattle, WA 98101",Luke,Thompson,(425) 927-1580,(425) 630-6028 x94,luke.thompson@elmstreetdental.com.example,02_state_board.csv
+Riverbend Family Dentistry,"6919 Washington Drive, Dallas, TX 75201",Mary,Martinez,(972) 477-3069,(972) 301-5547 x80,mary.martinez@riverbendfamilydentistry.com.example,02_state_board.csv
+Fairview Dental Studio,"7596 Lincoln Drive, Miami, FL 33101",Daniel,Hill,(305) 351-3113,(305) 887-7725,daniel.hill@fairviewdentalstudio.com.example,02_state_board.csv
+Cedar Creek Dental,"7441 Mill Avenue, Dallas, TX 75201",Ryan,Phillips,(469) 448-4136,(469) 559-5180 x69,ryan.phillips@cedarcreekdental.com.example,02_state_board.csv
+Bright Smile Dental,"4553 Cherry Street, Dallas, TX 75201",Sarah,Mitchell,(214) 853-5297,(214) 337-2977,info@brightsmiledental.com.example,02_state_board.csv
+Bright Smile Dental,"1667 Hill Street, Dallas, TX 75201",David,Chen,(214) 992-8017,(214) 273-4624,info@brightsmiledental.com.example,03_insurance_dir.csv
+Oakwood Dental Care,"3820 Maple Boulevard, Boston, MA 02108",Ruby,Wilson,(617) 768-4825,(617) 301-9489 x42,ruby.wilson@oakwooddentalcare.com.example,02_state_board.csv
+Oakwood Dental Care,"5597 Oak Avenue, Phoenix, AZ 85001",Isabella,Turner,(480) 212-6593,(480) 316-6245 x87,isabella.turner@oakwooddentalcare.com.example,02_state_board.csv | 05_old_crm.csv
+Stonebridge Dental Care,"6163 Hill Drive, Denver, CO 80202",Michelle,Green,(303) 375-7748,(303) 641-6576 x31,michelle.green@stonebridgedentalcare.com.example,02_state_board.csv | 03_insurance_dir.csv
+Pine Street Orthodontics,"6904 Pine Street, Newark, NJ 07102",Michael,Walker,(973) 754-7633,(973) 721-2765,michael.walker@pinestreetorthodontics.com.example,02_state_board.csv
+Sunnybrook Orthodontics,"4055 Washington Drive, Dallas, TX 75201",Liam,Hill,(214) 791-4418,(214) 618-1780 x18,liam.hill@sunnybrookorthodontics.com.example,02_state_board.csv
+Downtown Dental Associates,"443 Walnut Boulevard, Dallas, TX 75201",Emma,Martin,(469) 390-2784,,emma.martin@downtowndentalassociates.com.example,02_state_board.csv
+Elm Street Dental,"3470 River Road, Chicago, IL 60601",Sophie,Jones,(773) 504-6603,(773) 427-5977,sophie.jones@elmstreetdental.com.example,02_state_board.csv
+Lakeside Dentistry,"8683 Walnut Road, Atlanta, GA 30301",Lucas,King,(678) 294-4124,(678) 284-5559 x33,lucas.king@lakesidedentistry.com.example,02_state_board.csv
+Elm Street Dental,"2836 River Road, Chicago, IL 60601",Ethan,Clark,(312) 249-9891,(312) 921-6731 x89,ethan.clark@elmstreetdental.com.example,02_state_board.csv | 05_old_crm.csv
+Elm Street Dental,"9255 River Road, Seattle, WA 98101",Jessica,Lee,(206) 681-8104,(206) 372-1570,jessica.lee@elmstreetdental.com.example,02_state_board.csv | 04_conference.csv
+Stonebridge Dental Care,"536 Pearl Boulevard, Denver, CO 80202",William,Baker,(303) 938-5609,(303) 807-6568 x58,william.baker@stonebridgedentalcare.com.example,02_state_board.csv
+Riverside Family Dentistry,"7675 Pine Avenue, Dallas, TX 75201",John,Nguyen,(972) 687-9725,,john.nguyen@riversidefamilydentistry.com.example,02_state_board.csv
+Riverside Family Dentistry,"9841 Oak Avenue, Boston, MA 02108",Isabella,Clark,(857) 344-3329,(857) 972-3789,isabella.clark@riversidefamilydentistry.com.example,02_state_board.csv
+Meadowbrook Dental,"1706 Lake Street, Denver, CO 80202",Daniel,Martin,(303) 925-2846,(303) 237-1995,daniel.martin@meadowbrookdental.com.example,02_state_board.csv
+Stonebridge Dental Care,"3769 Lincoln Avenue, Chicago, IL 60601",Sam,Flores,(312) 614-5610,(312) 570-6446,sam.flores@stonebridgedentalcare.com.example,02_state_board.csv
+Meadowbrook Dental,"9052 Maple Boulevard, Denver, CO 80202",Adam,Thompson,(720) 547-3629,(720) 752-8034 x84,adam.thompson@meadowbrookdental.com.example,03_insurance_dir.csv
+Pine Street Orthodontics,"6283 Lincoln Street, Portland, OR 97201",Isabella,Walker,(503) 518-8956,(503) 852-1155,isabella.walker@pinestreetorthodontics.com.example,03_insurance_dir.csv
+Riverside Family Dentistry,"9343 Cherry Road, Boston, MA 02108",Nathan,Brown,(857) 947-5758,(857) 322-1482,nathan.brown@riversidefamilydentistry.com.example,03_insurance_dir.csv
+Lakeside Dentistry,"6826 Maple Avenue, Newark, NJ 07102",John,Adams,(862) 306-2333,(862) 874-7008,john.adams@lakesidedentistry.com.example,03_insurance_dir.csv | 04_conference.csv
+Sunnybrook Orthodontics,"8870 Grove Avenue, Phoenix, AZ 85001",Lucas,Williams,(602) 600-4566,(602) 897-9681 x95,lucas.williams@sunnybrookorthodontics.com.example,03_insurance_dir.csv
+Hillcrest Orthodontics,"7734 Pearl Avenue, Atlanta, GA 30301",Robert,Scott,(404) 787-3580,(404) 396-8823,robert.scott@hillcrestorthodontics.com.example,03_insurance_dir.csv
+Westside Dental Group,"6115 River Boulevard, Seattle, WA 98101",Nathan,Lewis,(206) 515-6068,(206) 359-5085,nathan.lewis@westsidedentalgroup.com.example,03_insurance_dir.csv
+Oakwood Dental Care,"1496 Oak Boulevard, Seattle, WA 98101",Robert,Thompson,(206) 778-8846,(206) 359-4110,robert.thompson@oakwooddentalcare.com.example,03_insurance_dir.csv
+Maple Grove Dentistry,"6348 Park Street, Portland, OR 97201",Amanda,Hall,(971) 352-1190,(971) 337-7310 x70,amanda.hall@maplegrovedentistry.com.example,03_insurance_dir.csv
+Riverside Family Dentistry,"6916 Pearl Drive, Dallas, TX 75201",Isabella,Rodriguez,(972) 840-8638,(972) 608-6127,isabella.rodriguez@riversidefamilydentistry.com.example,03_insurance_dir.csv
+Elm Street Dental,"2575 Lincoln Boulevard, Seattle, WA 98101",Emily,Martinez,(206) 670-7692,(206) 728-1786 x41,emily.martinez@elmstreetdental.com.example,03_insurance_dir.csv
+Riverside Family Dentistry,"2105 Hill Drive, Miami, FL 33101",Joshua,Martinez,(305) 569-2952,(305) 461-8121,joshua.martinez@riversidefamilydentistry.com.example,03_insurance_dir.csv
+Willow Creek Dentistry,"225 Hill Street, Boston, MA 02108",Richard,Baker,(617) 752-5062,(617) 276-8940,richard.baker@willowcreekdentistry.com.example,03_insurance_dir.csv | 04_conference.csv
+Summit Dental Care,"2065 Mill Street, Miami, FL 33101",Ryan,Kim,(786) 721-9504,(786) 236-3565,ryan.kim@summitdentalcare.com.example,03_insurance_dir.csv
+Riverside Family Dentistry,"3709 Lake Avenue, Dallas, TX 75201",Sarah,Taylor,(214) 829-4054,(214) 298-4326 x66,sarah.taylor@riversidefamilydentistry.com.example,03_insurance_dir.csv
+Fairview Dental Studio,"4663 Lincoln Avenue, Phoenix, AZ 85001",Isabella,Adams,(602) 788-9824,(602) 360-6421 x72,isabella.adams@fairviewdentalstudio.com.example,03_insurance_dir.csv
+Stonebridge Dental Care,"9515 Oak Road, Newark, NJ 07102",Charlotte,Clark,(973) 638-6790,(973) 578-3286 x82,charlotte.clark@stonebridgedentalcare.com.example,03_insurance_dir.csv
+Oakwood Dental Care,"3481 Elm Street, Phoenix, AZ 85001",Nicole,Baker,(602) 589-9893,(602) 517-5537,nicole.baker@oakwooddentalcare.com.example,03_insurance_dir.csv
+Oakwood Dental Care,"8147 Lincoln Avenue, Newark, NJ 07102",Kimberly,Clark,(862) 681-4290,(862) 689-5581 x30,kimberly.clark@oakwooddentalcare.com.example,03_insurance_dir.csv
+Harborview Dental Studio,"6225 Elm Road, Chicago, IL 60601",Ashley,Jones,(312) 396-6618,(312) 601-3553,ashley.jones@harborviewdentalstudio.com.example,03_insurance_dir.csv | 04_conference.csv
+Bright Smile Dental,"4388 Park Street, Atlanta, GA 30301",Sarah,Nguyen,(678) 684-4686,(678) 916-3457 x91,sarah.nguyen@brightsmiledental.com.example,03_insurance_dir.csv
+Pine Street Orthodontics,"5530 River Street, Portland, OR 97201",Ethan,Carter,(971) 686-1018,(971) 572-4187,ethan.carter@pinestreetorthodontics.com.example,03_insurance_dir.csv
+Meadowbrook Dental,"6389 High Boulevard, Miami, FL 33101",William,Gonzalez,(786) 651-5285,(786) 812-4852,william.gonzalez@meadowbrookdental.com.example,03_insurance_dir.csv | 04_conference.csv
+Oakwood Dental Care,"1139 Grove Road, Phoenix, AZ 85001",Olivia,Kim,(602) 544-3002,,olivia.kim@oakwooddentalcare.com.example,04_conference.csv
+Riverside Family Dentistry,"2755 Oak Boulevard, Newark, NJ 07102",Noah,Perez,(862) 553-6355,,noah.perez@riversidefamilydentistry.com.example,04_conference.csv
+Bright Smile Dental,"8794 School Boulevard, Chicago, IL 60601",Nathan,Phillips,(312) 335-3337,(312) 336-5452,nathan.phillips@brightsmiledental.com.example,04_conference.csv
+Summit Dental Care,"4911 Maple Drive, Dallas, TX 75201",Sarah,Gonzalez,(214) 705-3957,(214) 201-1171,sarah.gonzalez@summitdentalcare.com.example,04_conference.csv | 05_old_crm.csv
+Maple Grove Dentistry,"6510 Walnut Street, Newark, NJ 07102",Nicole,Garcia,(973) 623-9651,(973) 434-1496,nicole.garcia@maplegrovedentistry.com.example,04_conference.csv
+Bright Smile Dental,"2800 Washington Road, Portland, OR 97201",Richard,Singh,(971) 933-2730,(971) 952-7409 x67,richard.singh@brightsmiledental.com.example,04_conference.csv
+Fairview Dental Studio,"6057 High Road, Seattle, WA 98101",Jack,Flores,(425) 558-6816,(425) 608-7893 x24,jack.flores@fairviewdentalstudio.com.example,04_conference.csv
+Brookfield Family Dental,"8789 Hill Drive, Portland, OR 97201",Jack,Lewis,(503) 749-3117,(503) 893-7182,jack.lewis@brookfieldfamilydental.com.example,04_conference.csv
+Westside Dental Group,"4588 Pearl Road, Atlanta, GA 30301",Emily,Nelson,(678) 664-5347,(678) 362-4517,emily.nelson@westsidedentalgroup.com.example,04_conference.csv
+Willow Creek Dentistry,"8236 River Road, Miami, FL 33101",Jessica,Kim,(305) 450-2972,(305) 249-6275 x82,jessica.kim@willowcreekdentistry.com.example,04_conference.csv
+Hillcrest Orthodontics,"382 Church Street, Portland, OR 97201",Ethan,Green,(503) 257-1619,(503) 483-2466,ethan.green@hillcrestorthodontics.com.example,04_conference.csv
+Downtown Dental Associates,"7575 Grove Boulevard, Denver, CO 80202",Michael,Garcia,(720) 917-9200,(720) 361-3347,michael.garcia@downtowndentalassociates.com.example,04_conference.csv
+Hillcrest Orthodontics,"5487 Walnut Avenue, Phoenix, AZ 85001",Liam,Brown,(602) 668-2767,(602) 585-3337,liam.brown@hillcrestorthodontics.com.example,04_conference.csv | 05_old_crm.csv
+Lakeside Dentistry,"7319 Pearl Road, Denver, CO 80202",Karen,Lewis,(303) 955-8166,(303) 716-8295,karen.lewis@lakesidedentistry.com.example,04_conference.csv
+Brookfield Family Dental,"1162 School Drive, Newark, NJ 07102",Mia,Thompson,(973) 401-2132,(973) 989-6006,mia.thompson@brookfieldfamilydental.com.example,04_conference.csv
+Brookfield Family Dental,"1621 Maple Boulevard, Portland, OR 97201",Kimberly,Hall,(503) 433-3247,(503) 239-4507,kimberly.hall@brookfieldfamilydental.com.example,04_conference.csv
+Riverbend Family Dentistry,"8484 Grove Road, Phoenix, AZ 85001",Lucas,Green,(480) 638-5650,(480) 490-1413 x39,lucas.green@riverbendfamilydentistry.com.example,04_conference.csv
+Pine Street Orthodontics,"919 Mill Drive, Newark, NJ 07102",Emily,Parker,(973) 335-3176,(973) 759-4916,emily.parker@pinestreetorthodontics.com.example,04_conference.csv
+Brookfield Family Dental,"971 Grove Road, Phoenix, AZ 85001",Richard,Nelson,(602) 596-6005,(602) 918-1188 x43,richard.nelson@brookfieldfamilydental.com.example,04_conference.csv
+Oakwood Dental Care,"4588 Mill Street, Chicago, IL 60601",Emma,Wilson,(312) 318-5043,(312) 790-4346,info@oakwooddentalcare.com.example,04_conference.csv
+Oakwood Dental Care,"2048 Pine Avenue, Chicago, IL 60601",Luke,Brown,(312) 736-5797,(312) 755-1815 x25,info@oakwooddentalcare.com.example,05_old_crm.csv
+Meadowbrook Dental,"3084 Hill Street, Newark, NJ 07102",Daniel,Scott,(973) 704-1067,(973) 297-5548 x96,daniel.scott@meadowbrookdental.com.example,05_old_crm.csv
+Pine Street Orthodontics,"2532 River Avenue, Portland, OR 97201",Jessica,Torres,(503) 298-4075,(503) 438-5474 x82,jessica.torres@pinestreetorthodontics.com.example,05_old_crm.csv
+Summit Dental Care,"8183 Lincoln Drive, Portland, OR 97201",Stephanie,Martin,(971) 245-4491,(971) 803-6609 x87,stephanie.martin@summitdentalcare.com.example,05_old_crm.csv
+Stonebridge Dental Care,"3910 Cherry Avenue, Boston, MA 02108",James,Phillips,(617) 521-1082,(617) 725-1053,james.phillips@stonebridgedentalcare.com.example,05_old_crm.csv
+Fairview Dental Studio,"9059 High Boulevard, Portland, OR 97201",Michelle,Brown,(971) 391-3176,(971) 972-1861,michelle.brown@fairviewdentalstudio.com.example,05_old_crm.csv
+Riverbend Family Dentistry,"603 Elm Avenue, Seattle, WA 98101",Adam,Williams,(425) 786-9580,(425) 812-2551,adam.williams@riverbendfamilydentistry.com.example,05_old_crm.csv
+Riverside Family Dentistry,"9407 High Road, Miami, FL 33101",Ruby,King,(305) 996-1570,(305) 730-6519,ruby.king@riversidefamilydentistry.com.example,05_old_crm.csv
+Harborview Dental Studio,"9750 River Avenue, Boston, MA 02108",Michael,Smith,(857) 567-4178,(857) 518-6992 x30,michael.smith@harborviewdentalstudio.com.example,05_old_crm.csv
+Harborview Dental Studio,"4249 Hill Drive, Miami, FL 33101",Robert,Flores,(786) 496-8087,(786) 374-6319,robert.flores@harborviewdentalstudio.com.example,05_old_crm.csv
+Meadowbrook Dental,"1887 Cedar Drive, Phoenix, AZ 85001",Ethan,Perez,,(602) 695-8613 x85,ethan.perez@meadowbrookdental.com.example,05_old_crm.csv
+Pine Street Orthodontics,"4370 Maple Drive, Denver, CO 80202",Ryan,Clark,(720) 490-7105,(720) 214-4108 x26,ryan.clark@pinestreetorthodontics.com.example,05_old_crm.csv
+Bright Smile Dental,"1418 Hill Boulevard, Phoenix, AZ 85001",Nicole,Walker,(602) 549-8202,(602) 585-7459 x95,nicole.walker@brightsmiledental.com.example,05_old_crm.csv
+Riverbend Family Dentistry,"3022 Elm Drive, Phoenix, AZ 85001",John,White,(602) 498-3043,(602) 232-5240,john.white@riverbendfamilydentistry.com.example,05_old_crm.csv
+Maple Grove Dentistry,"5812 Grove Avenue, Seattle, WA 98101",Lisa,Brown,(425) 347-7623,(425) 495-7577,lisa.brown@maplegrovedentistry.com.example,05_old_crm.csv
+Downtown Dental Associates,"5167 Elm Street, Dallas, TX 75201",Ruby,Martinez,,(469) 819-8973,ruby.martinez@downtowndentalassociates.com.example,05_old_crm.csv
+Elm Street Dental,"9644 Grove Avenue, Portland, OR 97201",Noah,Mitchell,(971) 449-7600,(971) 969-5819,noah.mitchell@elmstreetdental.com.example,05_old_crm.csv
+Cedar Creek Dental,"2955 Lincoln Road, Phoenix, AZ 85001",Isabella,Thompson,(480) 471-7478,(480) 700-5447,isabella.thompson@cedarcreekdental.com.example,05_old_crm.csv
+Cedar Creek Dental,"232 Hill Avenue, Denver, CO 80202",Sophie,Parker,(303) 221-4758,(303) 382-5133,sophie.parker@cedarcreekdental.com.example,05_old_crm.csv
+Riverbend Family Dentistry,"7636 Maple Boulevard, Dallas, TX 75201",Robert,Hall,(972) 291-9940,(972) 752-9666 x28,robert.hall@riverbendfamilydentistry.com.example,05_old_crm.csv

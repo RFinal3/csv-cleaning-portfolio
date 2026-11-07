@@ -1,0 +1,10 @@
+company,address,first_name,last_name,cell_phone,office_phone,email,source,reason
+Banksia Brewing,"31 Lake Street, Chicago, IL 60601",Nina,Foster,12345,(312) 555-0110,nina.foster@banksia.com.example,02_state_board.csv,cell phone invalid
+Nullarbor Freight,"8 Hill Road, Phoenix, AZ 85001",Omar,Farouk,(602) 555-0199,555-ABCD,omar.farouk@nullarborfreight.com.example,03_insurance_dir.csv,office phone invalid
+Wattle & Co,"14 Grove Street, Portland, OR 97201",,,(503) 555-0128,(503) 555-0139,someone@wattleandco.com.example,04_conference.csv,name missing
+,"3 Church Avenue, Atlanta, GA 30301",Zoe,Lane,(404) 555-0155,(404) 555-0166,zoe.lane@coralcoast.com.example,05_old_crm.csv,company missing
+Opal Coast Hotels,"77 Elm Drive, Seattle, WA 98101",Ben,Carter,(206) 555-0133,(206) 555-0144,ben.carter@company,01_referral_list.csv,email invalid
+Wattle & Co,"10 Main Street, Dallas, TX 75201",Tom,Harris,(214) 555-0123,(214) 555-0199,,01_referral_list.csv,email missing
+Jacaranda Jewellery,"22 Oak Avenue, Boston, MA 02108",Kate,Moss,(617) 555-0145,(617) 555-0188,,02_state_board.csv,email missing
+Reef Tourism Co,"5 Pine Road, Miami, FL 33101",Priya,Nair,(305) 555-0111,(305) 555-0122,priya.nairreeftourism.com.example,03_insurance_dir.csv,email invalid
+Banksia Brewing,"9 Cedar Boulevard, Denver, CO 80202",Paul,Hall,(303) 555-0177,(303) 555-0166,paul.hall@,04_conference.csv,email invalid
