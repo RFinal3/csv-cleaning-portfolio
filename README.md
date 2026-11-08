@@ -31,7 +31,3 @@ The other three use the workflow I bring to client work. An AI agent does the fi
 ## Checked
 
 On 7 November 2026, all four scripts were run on their included inputs (Python 3.14, Windows), before and after the email-domain change. Both times, all eight generated CSVs matched the files in `supplied-output` byte for byte, and the sales revenue reproduced at 27,085.35. That confirms the saved results reproduce. It does not mean the scripts handle every possible file, and each project README lists its known limitations.
-
-## Contact
-
-I offer small, clearly scoped CSV cleanup on Fiverr ([ryan_melanson](https://www.fiverr.com/ryan_melanson)) and can be reached on [LinkedIn](https://www.linkedin.com/in/ryan-melanson-97b538445).
